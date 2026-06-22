@@ -1,0 +1,1 @@
+Link State Advertisement used by [[OSPF]] routing protocol to share topology information.

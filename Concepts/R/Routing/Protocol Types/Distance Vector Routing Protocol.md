@@ -1,0 +1,7 @@
+- Distance vector routing protocol
+- Routers advertise their routing table to directly connected neighbours ("routing by rumour")
+- Selects best path based on **hop count**
+- Periodic updates sent on a timer, regardless of network changes
+- Slow convergence — changes propagate hop by hop through the network
+- Susceptible to routing loops — mitigated by split horizon, poison reverse, and holddown timers
+- Examples: **RIP** (max 15 hops), **EIGRP** (Cisco proprietary, uses composite metric not pure hop count)

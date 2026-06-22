@@ -1,0 +1,1 @@
+Restricts which VLANs are permitted to traverse a trunk link

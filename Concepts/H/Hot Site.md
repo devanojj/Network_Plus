@@ -1,0 +1,1 @@
+Fully equipped and operational site that is ready to take over operations immediately in the event of a disaster

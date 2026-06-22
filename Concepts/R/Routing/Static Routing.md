@@ -1,0 +1,6 @@
+- Non-adaptive routing (configured manually by administrator)
+- Best for small networks or simple topologies (stub networks)
+- Default Administrative Distance (AD) = **1**
+- **Floating Static Route:**
+  - A static backup route configured with an Administrative Distance higher than the active dynamic routing protocol (e.g., AD of `125` when using OSPF at `110`).
+  - It only appears in the routing table if the primary dynamic route fails, providing path redundancy.

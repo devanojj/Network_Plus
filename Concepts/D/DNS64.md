@@ -1,0 +1,1 @@
+Uses a fake AAAA record for a IPv4, used with [[NAT64]]

@@ -1,0 +1,3 @@
+combines characteristics of distance-vector and link-state protocols.
+advertises routes to neighbours, not full topology
+But uses link-state-like features: it maintains neighbour relationships via hello packets, builds a topology table (not just a routing table), and uses DUAL (Diffusing Update Algorithm) for fast, loop-free convergence — closer to link-state efficiency than traditional distance-vector protocols like RIP.

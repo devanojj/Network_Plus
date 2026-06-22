@@ -1,0 +1,1 @@
+Process where router sends all packets to all ports except the port it originated from 

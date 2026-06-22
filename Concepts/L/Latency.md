@@ -1,0 +1,1 @@
+Time it takes for a packet to travel from source to destination

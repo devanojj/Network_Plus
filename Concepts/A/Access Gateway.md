@@ -1,0 +1,3 @@
+- Provides user access to network resources
+- Not a hardened administrative intermediary
+- Commonly used for end-user remote access

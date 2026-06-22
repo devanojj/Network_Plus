@@ -1,0 +1,1 @@
+*Operational Technology:* All hardware and software for monitoring and controlling devices 

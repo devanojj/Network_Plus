@@ -1,0 +1,1 @@
+In [[STP]] learns MAC addresses to populate the MAC table, but does not forward frames yet

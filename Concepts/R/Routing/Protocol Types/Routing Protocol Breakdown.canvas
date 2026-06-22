@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"f1a528df5bda6883","type":"text","text":"Dynamic Routing Protocol","x":-85,"y":-280,"width":250,"height":60},
+		{"id":"f4618e479cd9a914","type":"text","text":"Interior Gateway Protocol (IGP)","x":-335,"y":-160,"width":250,"height":60},
+		{"id":"2aa9cc745c476a6d","type":"text","text":"Exterior Gateway Protocol (EGP)","x":140,"y":-160,"width":250,"height":60},
+		{"id":"17dbfca46dd5786e","type":"text","text":"[[Distance Vector Routing Protocol]]","x":-480,"y":-40,"width":250,"height":60},
+		{"id":"e3219ff78e123cdb","type":"text","text":"[[Link-State Routing Protocol]]","x":-210,"y":-40,"width":250,"height":60},
+		{"id":"eed2cdbae6cbbe02","type":"text","text":"[[Path Vector Routing Protocol]]","x":140,"y":-40,"width":250,"height":60},
+		{"id":"6356db98ed853f36","type":"text","text":"[[OSPF]] / [[IS-IS]]","x":-210,"y":60,"width":250,"height":60},
+		{"id":"6cf3828344e9b291","type":"text","text":"[[RIP]] ","x":-480,"y":60,"width":250,"height":60},
+		{"id":"8cb656413d8d9d82","type":"text","text":"[[BGP]]","x":140,"y":60,"width":250,"height":60},
+		{"id":"bc141f8cea5eda22","type":"text","text":"[[Advanced Distance Vector Hybrid]]","x":-800,"y":20,"width":250,"height":60},
+		{"id":"4b68842b963673c7","type":"text","text":"[[EIGRP]]","x":-800,"y":140,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"60dc98153f664e02","fromNode":"f1a528df5bda6883","fromSide":"right","toNode":"2aa9cc745c476a6d","toSide":"top"},
+		{"id":"0ef8d8d1d717b3f2","fromNode":"f1a528df5bda6883","fromSide":"left","toNode":"f4618e479cd9a914","toSide":"top"},
+		{"id":"119a482005e8b19b","fromNode":"f4618e479cd9a914","fromSide":"left","toNode":"17dbfca46dd5786e","toSide":"left"},
+		{"id":"da3dc9e823bc0135","fromNode":"f4618e479cd9a914","fromSide":"bottom","toNode":"e3219ff78e123cdb","toSide":"top"},
+		{"id":"7c2335988d2aee1b","fromNode":"2aa9cc745c476a6d","fromSide":"bottom","toNode":"eed2cdbae6cbbe02","toSide":"top"},
+		{"id":"3cc25a5352aca5f2","fromNode":"e3219ff78e123cdb","fromSide":"bottom","toNode":"6356db98ed853f36","toSide":"top"},
+		{"id":"59366492770b2e94","fromNode":"17dbfca46dd5786e","fromSide":"bottom","toNode":"6cf3828344e9b291","toSide":"top"},
+		{"id":"4ce2911dceb6600b","fromNode":"eed2cdbae6cbbe02","fromSide":"bottom","toNode":"8cb656413d8d9d82","toSide":"top"},
+		{"id":"87f554fd5cc9a9b4","fromNode":"17dbfca46dd5786e","fromSide":"left","toNode":"bc141f8cea5eda22","toSide":"right"},
+		{"id":"afeb0407303722ff","fromNode":"bc141f8cea5eda22","fromSide":"bottom","toNode":"4b68842b963673c7","toSide":"top"}
+	]
+}

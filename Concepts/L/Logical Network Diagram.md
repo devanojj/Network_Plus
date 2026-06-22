@@ -1,0 +1,1 @@
+Network diagram showing IP addresses, hostnames, and connection types for all devices.

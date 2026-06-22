@@ -1,0 +1,1 @@
+Cisco term, bundles multiple physical links between two switches into one logical link.

@@ -1,0 +1,1 @@
+Documentation type that specifically shows the physical paths and connections between network components

@@ -1,0 +1,1 @@
+The demarcation point is the physical point where the service provider's network ends and the customer's network begins

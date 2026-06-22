@@ -1,0 +1,1 @@
+A crossover cable intentionally swaps the transmit and receive pairs: pins 1 & 2 (TX+/TX-) on one end connect to pins 3 & 6 (RX+/RX-) on the other end.

@@ -1,0 +1,3 @@
+- Each router flood information to all other routers
+- Event driven update
+- Faster then [[Distance Vector Routing Protocol]]

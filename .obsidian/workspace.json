@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "ad042e26bca48c19",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b4dba719a06d5cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "271da52a1cdb5e99",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b3ce0f2f1ece286",
+    "type": "split",
+    "children": [
+      {
+        "id": "0134bbce668b024d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "767ad9a10f3cd34e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9629d183453aeeef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "go back ober",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "77a333ee453c0e70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 433.5
+  },
+  "right": {
+    "id": "f96cfb5d5756e9a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "db48cc889312347b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4951943e19cffe8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quiz/Topic Quiz/Network Security.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Network Security"
+            }
+          },
+          {
+            "id": "d67926ecd8c99e67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Quiz/Topic Quiz/Network Security.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Network Security"
+            }
+          },
+          {
+            "id": "d0403b40cbdfbae9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cb7da28cdd015375",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d0cab64d9b2dfd24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Acronyms Test 4.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Acronyms Test 4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "271da52a1cdb5e99",
+  "lastOpenFiles": [
+    "Quiz/Topic Quiz/Cabling Issues Troubleshooting (Done).md",
+    "Concepts/T/TKIP.md",
+    "Plan/Opus_Network+_Study_V2.md",
+    "Plan/Opus_Network+_Study.md",
+    "Concepts/F/Fibre.md",
+    "Concepts/Z/ZTA.md",
+    "Concepts/X/XSS.md",
+    "Concepts/W/Wireshark.md",
+    "Concepts/W/Wireless Modes.md",
+    "Concepts/W/Wireless Authenication.md",
+    "Concepts/W/Wi-Fi Direct.md",
+    "Concepts/W/Whaling.md",
+    "Concepts/W/WAP Identifier.md",
+    "Concepts/B/BSSID.md",
+    "Concepts/S/SSID.md",
+    "Concepts/B/BSS.md",
+    "Concepts/E/ESS.md",
+    "Concepts/W/WAF.md",
+    "Concepts/W/WA.md",
+    "Concepts/V/VxLAN.md",
+    "Concepts/V/VTP.md",
+    "Concepts/V/VRRP.md",
+    "Concepts/V/VPN.md",
+    "Concepts/V/VPC.md",
+    "Concepts/V/VoIP.md",
+    "Concepts/V/VNI.md",
+    "Images/Pasted image 20260622135329.png",
+    "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
+    "Concepts/R/Routing/Types of Routing",
+    "Concepts/R/Routing/Protocol Types",
+    "Concepts/L/Untitled",
+    "Concepts/D/Untitled",
+    "Concepts/P/Untitled",
+    "Images/Pasted image 20260610134039.png",
+    "Concepts/K",
+    "Images/Pasted image 20260607161903.png",
+    "Images/Pasted image 20260609134715.png",
+    "Images",
+    "Images/Pasted image 20260609135348.png",
+    "Images/Pasted image 20260609134754.png",
+    "Concepts/Q",
+    "Concepts/Z",
+    "Concepts/X",
+    "Concepts/S/Subnetting/Pasted image 20260207161447.png",
+    "Untitled.canvas",
+    "Plan/Study Plan.canvas",
+    "notion-cover-aesthetic.jpg"
+  ]
+}

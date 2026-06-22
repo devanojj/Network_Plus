@@ -1,0 +1,1 @@
+A hub that routes traffic into a [[VPC]]

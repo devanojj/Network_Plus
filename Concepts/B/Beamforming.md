@@ -1,0 +1,1 @@
+Focuses Wi-Fi the signal toward a specific client device.

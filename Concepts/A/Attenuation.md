@@ -1,0 +1,2 @@
+- Loss of signal strength over distance
+- Normal physical property of transmission media
