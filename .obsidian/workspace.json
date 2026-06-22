@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "271da52a1cdb5e99",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "fb37e5f65adb4324",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/A/ACL.md",
+                "file": "Concepts/J/Jump Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ACL"
+              "title": "Jump Server"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "go back ober",
+                "query": "site",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/A/ACL.md",
+                "file": "Concepts/J/Jump Server.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ACL"
+              "title": "Outline of Jump Server"
             }
           },
           {
@@ -191,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,14 +195,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d87a3fd59c7d92c1",
+  "active": "fb37e5f65adb4324",
   "lastOpenFiles": [
+    "Concepts/S/Site to Site VPN.md",
+    "Concepts/P/PTR Record.md",
+    "Concepts/P/Parallel Test.md",
+    "Concepts/M/MTBF.md",
+    "Quiz/Acronyms Quiz Done/Acronyms Test 4 (Done).md",
+    "Quiz/Topic Quiz/Disaster Recovery (Done).md",
+    "Concepts/D/Documents.md",
+    "Concepts/C/Change Management.md",
+    "Plan/Opus_Network+_Study.md",
+    "Concepts/A/ACL.md",
     "Concepts/A/AAA.md",
     "Concepts/A/A.md",
     "Quiz/Topic Quiz/Cabling Issues Troubleshooting (Done).md",
     "Concepts/T/TKIP.md",
     "Plan/Opus_Network+_Study_V2.md",
-    "Plan/Opus_Network+_Study.md",
     "Concepts/F/Fibre.md",
     "Concepts/Z/ZTA.md",
     "Concepts/X/XSS.md",
@@ -224,15 +223,6 @@
     "Concepts/W/WAP Identifier.md",
     "Concepts/B/BSSID.md",
     "Concepts/S/SSID.md",
-    "Concepts/B/BSS.md",
-    "Concepts/E/ESS.md",
-    "Concepts/W/WAF.md",
-    "Concepts/W/WA.md",
-    "Concepts/V/VxLAN.md",
-    "Concepts/V/VTP.md",
-    "Concepts/V/VRRP.md",
-    "Concepts/V/VPN.md",
-    "Concepts/V/VPC.md",
     "Images/Pasted image 20260622135329.png",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Concepts/R/Routing/Types of Routing",
