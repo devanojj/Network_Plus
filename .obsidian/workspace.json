@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb37e5f65adb4324",
+  "active": "767ad9a10f3cd34e",
   "lastOpenFiles": [
     "Concepts/C/CNAME.md",
     "Concepts/P/PTP.md",
