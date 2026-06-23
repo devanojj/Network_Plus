@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/D/DMZ.md",
+                "file": "Concepts/C/CRC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DMZ"
+              "title": "CRC"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hoppin",
+                "query": "arp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/D/DMZ.md",
+                "file": "Concepts/C/CRC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DMZ"
+              "title": "Outline of CRC"
             }
           },
           {
@@ -212,6 +213,15 @@
   },
   "active": "cd821ad9b5c94328",
   "lastOpenFiles": [
+    "Concepts/N/Network Device Commands.md",
+    "Quiz/Topic Quiz/Network Protocols (Done).md",
+    "Plan/Opus_Network+_Study.md",
+    "Plan/Opus_Network+_Study_V2.md",
+    "Concepts/O/OSI.md",
+    "Concepts/P/Passive Network Scan.md",
+    "Quiz/Topic Quiz/Software Troubleshooting (Done).md",
+    "Concepts/S/Switch Commands (Go back over).md",
+    "Concepts/D/DMZ.md",
     "Concepts/A/Attacks.md",
     "Concepts/T/Untitled.md",
     "Concepts/V/VLAN.md",
@@ -228,16 +238,7 @@
     "Quiz/Topic Quiz/Disaster Recovery (Done).md",
     "Concepts/D/Documents.md",
     "Concepts/C/Change Management.md",
-    "Plan/Opus_Network+_Study.md",
     "Concepts/A/ACL.md",
-    "Concepts/A/AAA.md",
-    "Concepts/A/A.md",
-    "Quiz/Topic Quiz/Cabling Issues Troubleshooting (Done).md",
-    "Concepts/T/TKIP.md",
-    "Plan/Opus_Network+_Study_V2.md",
-    "Concepts/F/Fibre.md",
-    "Concepts/Z/ZTA.md",
-    "Concepts/X/XSS.md",
     "Images/Pasted image 20260622135329.png",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Concepts/R/Routing/Types of Routing",

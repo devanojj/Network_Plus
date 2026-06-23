@@ -59,3 +59,7 @@
 
 - `telnet` — insecure remote terminal (port 23); also used to test if a TCP port is open
 - `ssh` — secure remote terminal (port 22)
+
+
+`netsh int ip reset` 
+It resets the Windows TCP/IP stack back to its default state.
