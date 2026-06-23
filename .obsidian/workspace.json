@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/J/Jump Server.md",
+                "file": "Concepts/S/SLAAC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jump Server"
+              "title": "SLAAC"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "site",
+                "query": "SLAAC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/J/Jump Server.md",
+                "file": "Concepts/S/SLAAC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jump Server"
+              "title": "Outline of SLAAC"
             }
           },
           {
@@ -197,6 +198,9 @@
   },
   "active": "fb37e5f65adb4324",
   "lastOpenFiles": [
+    "Concepts/C/CNAME.md",
+    "Concepts/P/PTP.md",
+    "Concepts/J/Jump Server.md",
     "Concepts/S/Site to Site VPN.md",
     "Concepts/P/PTR Record.md",
     "Concepts/P/Parallel Test.md",
@@ -220,9 +224,6 @@
     "Concepts/W/Wireless Authenication.md",
     "Concepts/W/Wi-Fi Direct.md",
     "Concepts/W/Whaling.md",
-    "Concepts/W/WAP Identifier.md",
-    "Concepts/B/BSSID.md",
-    "Concepts/S/SSID.md",
     "Images/Pasted image 20260622135329.png",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Concepts/R/Routing/Types of Routing",
