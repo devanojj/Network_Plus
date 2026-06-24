@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a741b93eb3fe250",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/A/Attacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Attacks"
-            }
-          },
-          {
             "id": "cd821ad9b5c94328",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/S/SAMBA.md",
+                "file": "Concepts/P/PTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAMBA"
+              "title": "PTP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "show",
+                "query": "PTP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/S/SAMBA.md",
+                "file": "Concepts/P/PTP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SAMBA"
+              "title": "Outline of PTP"
             }
           },
           {
@@ -212,14 +198,24 @@
   },
   "active": "cd821ad9b5c94328",
   "lastOpenFiles": [
-    "Concepts/S/SMB.md",
+    "Quiz/Topic Quiz/Network Protocols (Done).md",
+    "Quiz/Acronyms Quiz Done/Acronyms Test 4 (Done).md",
+    "Concepts/P/PTP.md",
+    "Concepts/P/Ports TCP & UDP.md",
+    "Concepts/A/Attacks.md",
+    "Concepts/802/802.1p.md",
+    "Concepts/802/802.1Q.md",
+    "Concepts/802/802.1w.md",
+    "Concepts/802/802.1X.md",
+    "Concepts/802/802.3.md",
+    "Concepts/802/802.11.md",
     "Concepts/S/SAMBA.md",
+    "Concepts/S/SMB.md",
     "Concepts/C/C2.md",
     "Concepts/R/Routing/General Routing Concepts.md",
     "Concepts/C/Cable Maps & Diagrams.md",
     "Concepts/C/CRC.md",
     "Concepts/N/Network Device Commands.md",
-    "Quiz/Topic Quiz/Network Protocols (Done).md",
     "Plan/Opus_Network+_Study.md",
     "Plan/Opus_Network+_Study_V2.md",
     "Concepts/O/OSI.md",
@@ -227,17 +223,7 @@
     "Quiz/Topic Quiz/Software Troubleshooting (Done).md",
     "Concepts/S/Switch Commands (Go back over).md",
     "Concepts/D/DMZ.md",
-    "Concepts/A/Attacks.md",
     "Concepts/T/Untitled.md",
-    "Concepts/V/VLAN.md",
-    "Concepts/P/PKI.md",
-    "Concepts/S/SLAAC.md",
-    "Concepts/C/CNAME.md",
-    "Concepts/P/PTP.md",
-    "Concepts/J/Jump Server.md",
-    "Concepts/S/Site to Site VPN.md",
-    "Concepts/P/PTR Record.md",
-    "Concepts/P/Parallel Test.md",
     "Images/Pasted image 20260622135329.png",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Concepts/R/Routing/Types of Routing",
