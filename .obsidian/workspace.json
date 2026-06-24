@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd821ad9b5c94328",
+  "active": "767ad9a10f3cd34e",
   "lastOpenFiles": [
     "Quiz/Topic Quiz/Network Protocols (Done).md",
     "Quiz/Acronyms Quiz Done/Acronyms Test 4 (Done).md",
