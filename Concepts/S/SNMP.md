@@ -34,3 +34,6 @@ SNMP can read [[VLAN]] and port-assignment data from managed switches remotely â
 
 Tools is used for evaluating network efficiency and identifying potential bottlenecks
 
+
+SNMP Trap sends info when :the event that a failure or predefined threshold was crossed?
+
