@@ -8,7 +8,7 @@
 | Multipoint     | Central AP/Tower        | One ↔ Many       | Wireless ISP                 |
 
 
-- **Infrastructure** = _through an AP_
+- **Infrastructure** *= through an AP, allows the use of access points to allow roaming*  
 - **Ad Hoc** = _directly between devices_
 - **Point-to-Point** = _one site to one site_
 - **Multipoint** = _one site to many sites_
