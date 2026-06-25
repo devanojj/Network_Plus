@@ -1,1 +1,1 @@
-uses all available frequencies on its medium to transmit/receive data
+Uses all available frequencies on its medium to transmit/receive data
