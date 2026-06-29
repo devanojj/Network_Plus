@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/S/Subnetting/Total Usable Hosts per Subnet.md",
+                "file": "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Total Usable Hosts per Subnet"
+              "title": "Subnetting with Subnet Mask"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 433.5,
+    "collapsed": true
   },
   "right": {
     "id": "f96cfb5d5756e9a7",
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/S/Subnetting/Total Usable Hosts per Subnet.md",
+                "file": "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Total Usable Hosts per Subnet"
+              "title": "Outline of Subnetting with Subnet Mask"
             }
           },
           {
@@ -198,10 +199,13 @@
   "active": "18a016b9a581a084",
   "lastOpenFiles": [
     "Concepts/S/Subnetting/Total Number of Subnets.md",
+    "Concepts/S/Subnetting/Calculate Total Amount of Subnets for an IP Class.md",
+    "Concepts/S/Subnetting/Total Usable Hosts per Subnet.md",
     "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
     "Concepts/S/Subnetting/Slash Subnet convert into Subnet Mask.md",
     "Concepts/S/Subnetting/Pasted image 20260207161447.png",
-    "Convergence.md",
+    "Concepts/C/Convergence.md",
+    "Concepts/P/Private Address Ranges & Class Ranges.md",
     "Concepts/B/Baseband.md",
     "Concepts/802/802.3.md",
     "Concepts/T/TCP.md",
@@ -222,10 +226,6 @@
     "Concepts/P/Ports TCP & UDP.md",
     "Concepts/A/Attacks.md",
     "Concepts/802/802.1p.md",
-    "Concepts/802/802.1Q.md",
-    "Concepts/802/802.1w.md",
-    "Concepts/802/802.1X.md",
-    "Concepts/802/802.11.md",
     "Images/Pasted image 20260622135329.png",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Concepts/R/Routing/Types of Routing",
