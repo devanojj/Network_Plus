@@ -1,3 +1,10 @@
+*Get Block Size (256 - X) :* Where X is octet where amount of devices is decided 
+*Find the network ID :* Go up by the block size, 1st is the network ID
+
+From there it is possible to figure out the rest
+
+******
+
 ***Subnet ID***
 You are looking for 1st address on network
 If you get an IP & subnet mask -
