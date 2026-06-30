@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
+                "file": "Concepts/S/Subnetting/Slash Subnet convert into Subnet Mask.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subnetting with Subnet Mask"
+              "title": "Slash Subnet convert into Subnet Mask"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
+                "file": "Concepts/S/Subnetting/Slash Subnet convert into Subnet Mask.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Subnetting with Subnet Mask"
+              "title": "Outline of Slash Subnet convert into Subnet Mask"
             }
           },
           {
@@ -197,9 +197,9 @@
   },
   "active": "18a016b9a581a084",
   "lastOpenFiles": [
+    "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
     "Concepts/S/Subnetting/Slash Subnet convert into Subnet Mask.md",
     "Concepts/S/Subnetting/Private Address Range.md",
-    "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
     "Images/Pasted image 20260207161447.png",
     "Concepts/S/Subnetting/Total Number of Subnets.md",
     "Concepts/S/Subnetting/Total Usable Hosts per Subnet.md",
