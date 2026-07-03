@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/A/Antenna.md",
+                "file": "Concepts/802/802.11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Antenna"
+              "title": "802.11"
             }
           },
           {
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parab",
+                "query": "MIMO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -241,6 +241,8 @@
   },
   "active": "92af125255df02df",
   "lastOpenFiles": [
+    "Concepts/802/802.3.md",
+    "Concepts/A/Antenna.md",
     "Concepts/E/EAP.md",
     "Concepts/P/PSK.md",
     "Concepts/B/BPDU Guard.md",
@@ -259,7 +261,6 @@
     "Concepts/C/Convergence.md",
     "Concepts/P/Private Address Ranges & Class Ranges.md",
     "Concepts/B/Baseband.md",
-    "Concepts/802/802.3.md",
     "Concepts/T/TCP.md",
     "Concepts/W/Wireless Modes.md",
     "Quiz/ExamCompass/Topic Quiz/Wireless Networking (Done).md",
@@ -267,7 +268,6 @@
     "Concepts/H/Hub and Spoke.md",
     "Concepts/P/PAN.md",
     "Concepts/S/SNAT.md",
-    "Concepts/S/SNMP.md",
     "Quiz/eCollege",
     "Quiz/ExamCompass",
     "Images/Pasted image 20260622135329.png",
