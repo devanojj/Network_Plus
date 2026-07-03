@@ -6,4 +6,11 @@ Sent out to ports and lets switches figure out port roles and port states
 Blocked ports still listen to BPDU 
 
 
+[[BPDU Guard]]
+[[Root Guard]]
+[[Flood Guard]]
+
+
+
+
 

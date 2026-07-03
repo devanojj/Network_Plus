@@ -1,0 +1,3 @@
+- **What it does:** It controls which switch is allowed to become the **Root Bridge** (the master traffic coordinator of the Spanning Tree layout). It is applied to specific downstream ports on your core switches. If that port receives a BPDU claiming a superior, lower bridge ID from a rogue switch trying to steal the root position, Root Guard disables the port.
+
+- **The Threat it Prevents:** A rogue switch forcing its way to the top of the network topology to act as the Root Bridge, which would route all corporate data traffic through that unauthorised device.
