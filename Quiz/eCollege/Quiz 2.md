@@ -27,4 +27,9 @@ Site-to-Site VPN $\rightarrow$ AES and SHA512 is best as maximum security is req
 [[Nslookup]] $\rightarrow$ Fails, needs to create reverse look up zone. It failed due to missing [[PTR Record]]. The reverse look up zone on the DNS confirms the PTR
 
 
+### Network Troubleshooting 
+Types of POE (Type 3 POE++ vs Type 4 POE++)
+
+Reflection or signal bounce makes signals bounce of items, hard metal causes this
+Other material like water or brick causes 
 
