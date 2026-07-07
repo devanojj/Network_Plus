@@ -8,3 +8,4 @@ Used for full authentication and administration, if only authentication for Wi-F
 
 
 It **encrypts the entire packet**, not just the password. Which is more than [[RADIUS]]
+Used for network devices 

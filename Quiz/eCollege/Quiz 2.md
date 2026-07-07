@@ -39,5 +39,8 @@ Other material like water or brick causes
 
 
 ### Network Security 
-
-
+- Vulnerability scan cannot detect missing passwords 
+- WPA2-Enterprise use [[RADIUS]]
+- Vulnerability flaw or weakness in security that could lead to a security breach
+- Exploit attack takes advantage of a vulnerability 
+- [[802.1X]]
