@@ -7,7 +7,7 @@
 | -------------------------------------------------- | ---------------------------- | ------- | ----------------------------- | ------------------------------------------------------- |
 | Low dBi (e.g., omnidirectional ~2-5 dBi)           | Wide, spherical/donut-shaped | Shorter | Broad, covers all directions  | Open office, general AP coverage                        |
 | High dBi (e.g., directional/Yagi/dish, 10-20+ dBi) | Narrow, focused beam         | Longer  | Concentrated in one direction | Point-to-point links, long hallways, bridging buildings |
-*Higher dBi doesn't mean more power just more focused area*
+*Higher dBi means more gain and a narrower field. 
 
 
 ### Networking Concepts 
@@ -44,3 +44,4 @@ Other material like water or brick causes
 - Vulnerability flaw or weakness in security that could lead to a security breach
 - Exploit attack takes advantage of a vulnerability 
 - [[802.1X]]
+
