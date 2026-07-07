@@ -6,7 +6,7 @@ Network Cabling
 Repeater
 
 
-#### OSI Layer 2 - Data Link Layer - Frame 
+#### OSI Layer 2 - Data Link Layer - Frames 
 Bridge 
 Media converter
 Switch 
@@ -21,12 +21,12 @@ ARP
 [[ICMP]] / IP
 
 
-#### OSI Layer 4 - Datagram / Segment
+#### OSI Layer 4 - Transport - Datagram / Segment
 Issues where data packets are being delivered out of sequence and some packets are missing entirely. This is layer 4
 [[UDP]] / [[TCP]]
 
 
-#### OSI Layer 5 – Session Layer
+#### OSI Layer 5 – Session Layer - Data 
 **Purpose:** Establishes, manages, and terminates communication sessions between applications.
 
 - Establishes sessions between applications
