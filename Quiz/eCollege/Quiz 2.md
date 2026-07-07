@@ -21,7 +21,10 @@ NAS $\rightarrow$ structured as a network with multiple storage devices
 
 Site-to-Site VPN $\rightarrow$ AES and SHA512 is best as maximum security is required  
 
-### Network Troubleshooting
+### Network Operations
+[[RPO]] $\rightarrow$ 1st to check after a disaster
+
+[[Nslookup]] $\rightarrow$ Fails, needs to create reverse look up zone. It failed due to missing [[PTR Record]]. The reverse look up zone on the DNS confirms the PTR
 
 
 

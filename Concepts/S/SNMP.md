@@ -29,6 +29,8 @@ SMTPS = SMTP over SSL
 
 
 SNMP can read [[VLAN]] and port-assignment data from managed switches remotely — no CLI/console access needed. This can be done with SNMP OIDs (Object Identifier)
+1.3.6.1.2.1.14.2
+
 
 [[NMS]] use this to map [[VLAN]]s → switch ports for automated inventory and compliance checks
 
@@ -36,4 +38,6 @@ Tools is used for evaluating network efficiency and identifying potential bottle
 
 
 SNMP Trap sends info when :the event that a failure or predefined threshold was crossed?
+
+
 
