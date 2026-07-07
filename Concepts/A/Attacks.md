@@ -32,3 +32,8 @@ Host file is poisoned, bypass DNS
 *Teardrop*
 DoS attack using malformed IP fragmentation, under DoS attacks
 Mostly historical due to modern OS protections
+
+
+
+
+
