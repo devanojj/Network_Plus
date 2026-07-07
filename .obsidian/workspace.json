@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38703ff6ce7eecc5",
+        "id": "e46e3b0c4205f983",
         "type": "tabs",
         "children": [
           {
-            "id": "b076d69ac34d42fe",
+            "id": "59b76d87ba278b95",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "f96cfb5d5756e9a7",
@@ -196,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b076d69ac34d42fe",
+  "active": "59b76d87ba278b95",
   "lastOpenFiles": [
-    "Concepts/S/SNMP.md",
     "Quiz/eCollege/Quiz 2.md",
+    "Concepts/S/SNMP.md",
     "Concepts/N/Nslookup.md",
     "Concepts/N/NTP.md",
     "Concepts/S/Root Guard.md",

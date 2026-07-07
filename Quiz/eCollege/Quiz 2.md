@@ -33,3 +33,7 @@ Types of POE (Type 3 POE++ vs Type 4 POE++)
 Reflection or signal bounce makes signals bounce of items, hard metal causes this
 Other material like water or brick causes 
 
+[[STP]] will have crosstalk, CAT6 will prevent cross talk
+
+[[Tcpdump]] can be used to troubleshoot packet headers + content in ASCII or HEX
+
