@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "22204487d39059a7",
+        "id": "4a71f67388a9086c",
         "type": "tabs",
         "children": [
           {
-            "id": "0bc9fe2bca5b3976",
+            "id": "3d36e5c40cafcb91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/S/Switch.md",
+                "file": "Gemini_Notes_10_Jul.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Switch"
-            }
-          },
-          {
-            "id": "dc680311d47b13c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/A/Attenuation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Attenuation"
-            }
-          },
-          {
-            "id": "c95dfd29b2714ad3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/J/Jitter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jitter"
+              "title": "Gemini_Notes_10_Jul"
             }
           }
         ]
@@ -106,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 433.5,
+    "collapsed": true
   },
   "right": {
     "id": "f96cfb5d5756e9a7",
@@ -223,8 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bc9fe2bca5b3976",
+  "active": "3d36e5c40cafcb91",
   "lastOpenFiles": [
+    "Plan/Opus_Network+_Study_V2.md",
+    "Gemini_Notes_10_Jul.md",
+    "Concepts/S/Switch.md",
+    "Plan/Opus_Network+_Study.md",
     "Concepts/B/BOOTP.md",
     "Concepts/D/DHCP Snooping.md",
     "Concepts/D/DHCP.md",
@@ -234,8 +211,6 @@
     "Concepts/M/MDT.md",
     "Concepts/S/SIEM.md",
     "Quiz/ExamCompass/Topic Quiz/Network Monitoring (Done).md",
-    "Plan/Opus_Network+_Study_V2.md",
-    "Plan/Opus_Network+_Study.md",
     "Quiz/ExamCompass/Acronyms Quiz Done/Acronyms Test 4 (Done).md",
     "Quiz/ExamCompass/Topic Quiz/Wireless Networking (Done).md",
     "Concepts/W/Wireless Authenication.md",
@@ -249,8 +224,6 @@
     "Concepts/S/SNMP.md",
     "Concepts/N/Nslookup.md",
     "Concepts/N/NTP.md",
-    "Concepts/S/Root Guard.md",
-    "Concepts/802/802.3.md",
     "Images/Pasted image 20260207161447.png",
     "Quiz/eCollege",
     "Quiz/ExamCompass",
