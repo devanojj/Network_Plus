@@ -4,3 +4,7 @@ Doesn't look at live traffic
 Example is Splunk
 Aggregation logs and analysis with multiple network devices
 
+
+
+SEM (Security Event Management) + SIM (Security Information Management)**
+

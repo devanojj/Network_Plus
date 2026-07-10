@@ -5,3 +5,5 @@ All other ports are untrusted and messages are dropped. Stops rouge DHCP servers
 This also feeds into Dynamic [[ARP]] Inspection ([[DAI]]) for ARP spoofing prevention 
 
 Only trusted ports (connected to legitimate DHCP servers) are allowed to send DHCP server messages. It builds a database of legitimate IP-to-MAC bindings.
+
+Operates on the data link layer
