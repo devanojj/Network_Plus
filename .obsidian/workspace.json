@@ -8,7 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d36e5c40cafcb91",
+            "id": "ca5d679c211effdd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8a322e03c2a6d670",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c1e548191349769",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "f96cfb5d5756e9a7",
@@ -196,10 +211,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d36e5c40cafcb91",
+  "active": "5c1e548191349769",
   "lastOpenFiles": [
-    "Plan/Opus_Network+_Study_V2.md",
+    "Concepts/I/IPv6.md",
+    "Concepts/N/NDP.md",
     "Gemini_Notes_10_Jul.md",
+    "Plan/Opus_Network+_Study_V2.md",
+    "Concepts/T/TCP.md",
+    "Concepts/M/NAT64.md",
     "Concepts/S/Switch.md",
     "Plan/Opus_Network+_Study.md",
     "Concepts/B/BOOTP.md",
@@ -220,10 +239,6 @@
     "Concepts/J/Jitter.md",
     "Concepts/A/Attacks.md",
     "Concepts/802/802.1X.md",
-    "Concepts/T/TACACS+.md",
-    "Concepts/S/SNMP.md",
-    "Concepts/N/Nslookup.md",
-    "Concepts/N/NTP.md",
     "Images/Pasted image 20260207161447.png",
     "Quiz/eCollege",
     "Quiz/ExamCompass",

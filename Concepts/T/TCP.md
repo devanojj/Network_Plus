@@ -1,13 +1,24 @@
-Transmission Control Protocol 
-3 way handshake 
+**Transmission Control Protocol** - Layer 4 - Transport - Segment 
 
-- **SYN** — Client says _"I want to connect"_
-- **SYN-ACK** — Server replies _"OK, I got that, ready to connect"_
-- **ACK** — Client confirms _"Great, let's go"
+==3 way handshake== 
+1. **SYN:** Client says _"I want to connect"_
+2. **SYN-ACK:** Server replies _"OK, I got that, ready to connect"_
+3. **ACK:** Client confirms _"Great, let's go"
 
-Layer 4 - Transport
+==Connection Termination (Four-Way Close)==  
+Ending a TCP session is a separate process from starting one:
+1. **FIN:** "I'm done sending data" Device 1 
+2. **ACK:**  "Acknowledged" Device 2 
+3. **FIN:** "I'm done too" Device 2 
+4.  **ACK:** connection closed Device 1
 
-Windowing is a TCP flow control mechanism. Rather than waiting for an ACK after every single segment, TCP allows the sender to transmit multiple segments up to a limit called the **window size** before pausing for acknowledgment.
+==Windowing== 
+TCP flow control mechanism. Rather than waiting for an ACK after every single segment, TCP allows the sender to transmit multiple segments up to a limit called the **window size** before pausing for acknowledgment. The _receiver_ advertises it
 
-
-4 Layers of the TCP stack - Transport layer, Internet layer, Application layer, Network interface layer
+==TCP Flags==
+*   **SYN:** Synchronise (starts connection)
+*   **ACK:** Acknowledgment (confirms receipt)
+*   **FIN:** Finish (graceful termination)
+*   **RST:** Reset (immediate, ungraceful termination/connection refusal)
+*   **PSH:** Push (pushes data directly to the application layer, bypassing buffers) (Used for time-sensitive, interactive data)
+*   **URG:** Urgent (tells receiver to process this data immediately) (Rare in modern practice)
