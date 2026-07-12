@@ -1,23 +1,3 @@
-### 2. IPv6 In-Depth
-*   *   **Prefix Lengths:** `/64` is standard for a local subnet. `/48` is typically given to a site by an ISP. `/128` specifies a single specific device (like a loopback `::1/128`).
-*   **EUI-64:** A method of automatically generating an IPv6 host interface ID from its 48-bit MAC address. It splits the MAC address in half, inserts `FF:FE` in the middle, and flips the 7th bit.
-
-### 3. NAT (Network Address Translation) Terminology
-*   **Inside Local:** The private IP address of a device on your local network (e.g., 192.168.1.5).
-*   **Inside Global:** The public IP address your router uses to communicate on the Internet (the translated IP).
-*   **Outside Local & Outside Global:** Usually the same—the public IP address of the destination server on the Internet.
-*   **PAT (Port Address Translation / NAT Overload):** Maps multiple private IP addresses to a single public IP address using different source port numbers. This is what home routers use.
-
-### 4. Virtualization & Cloud
-*   **Hypervisors:**
-    *   **Type 1 (Bare Metal):** Installed directly on the hardware (e.g., VMware ESXi, Microsoft Hyper-V). Better performance.
-    *   **Type 2 (Hosted):** Installed on top of a host operating system (e.g., VirtualBox, VMware Workstation).
-*   **vSwitch / vNIC:** Virtual switches and virtual network interface cards allow VMs to communicate with each other and the physical network.
-*   **Containers vs. VMs:** VMs virtualize the entire hardware (running a full guest OS). Containers (like Docker) virtualize only the OS, sharing the host OS kernel, making them much more lightweight and faster to start.
-*   **NFV (Network Functions Virtualization):** Replacing proprietary hardware appliances (routers, firewalls, load balancers) with software running on standard virtual machines.
-
----
-
 ## DOMAIN 2.0: Network Implementation
 
 ### 1. VLANs (Virtual LANs)

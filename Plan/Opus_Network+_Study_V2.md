@@ -21,15 +21,9 @@
 
 ### Domain 1.0 — Networking Concepts (24%)
 
-| Objective | Your Notes | Coverage |
-|-----------|-----------|----------|
-| 1.1 OSI & TCP/IP models | [OSI.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/O/OSI.md), [Encapsulation OSI.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/E/Encapsulation%20OSI.md), [PDU.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/P/PDU.md) | ⚠️ TCP/IP model missing |
-| 1.2 Network topologies & types | [Network Design.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/N/Network%20Design.md), [Three Tier Architecture.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/T/Three%20Tier%20Architecture.md) | ✅ Good |
-| 1.3 Cabling & connectors | [Cabling.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/C/Cabling.md), [Cabling Standard.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/C/Cabling%20Standard.md), [Connectors Standard.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/C/Connectors%20Standard.md), [Fibre.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/F/Fibre.md) | ✅ Solid |
-| 1.4 IP addressing (IPv4/IPv6) | [IPv4.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IPv4.md) (**UPDATED**), [IPv6.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IPv6.md), Subnetting files, [CIDR.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/C/CIDR.md) | ✅ IPv4 note fully populated |
-| 1.5 Ports & protocols | [Ports TCP & UDP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/P/Ports%20TCP%20%26%20UDP.md), [TCP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/T/TCP.md), [UDP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/U/UDP.md) | ⚠️ TCP note is shallow |
-| 1.6 Network services | [DNS.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/D/DNS.md), [DHCP DORA.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/D/DHCP%20DORA.md) (**UPDATED**), [NAT.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/N/NAT.md), [SNMP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/SNMP.md) | ✅ DNS excellent; DHCP expanded |
-| 1.7 Cloud & virtualisation | [IaaS.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IaaS.md), [PaaS.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/P/PaaS.md), [SaaS.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/SaaS.md), [VPC.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/V/VPC.md), [SDN.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/SDN.md) | ⚠️ Individual notes very thin |
+
+| 1.7 Cloud & virtualisation     | [IaaS.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IaaS.md), [PaaS.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/P/PaaS.md), [SaaS.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/SaaS.md), [VPC.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/V/VPC.md), [SDN.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/SDN.md) | ⚠️ Individual notes very thin  |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
 
 ### Domain 2.0 — Network Implementation (19%)
 

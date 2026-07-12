@@ -1,3 +1,4 @@
-Lets devices create outbound connections 
-Blocks inbound connection 
-Translates private IP to public IP
+- Lets devices create outbound connections 
+- Blocks inbound connection 
+- Translates private IP to public IP
+- Cloud construct 
