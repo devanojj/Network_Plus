@@ -4,17 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "9cdcef1710defb53",
+        "id": "f02052d80587e01e",
         "type": "tabs",
         "children": [
           {
-            "id": "ca117e897a42cb43",
+            "id": "bf196ec825c38c59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Subnetting with Subnet Mask"
+            }
+          },
+          {
+            "id": "ac83e2e987b5a169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/S/Subnetting/Slash Subnet convert into Subnet Mask.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slash Subnet convert into Subnet Mask"
+            }
+          },
+          {
+            "id": "586b491692c79ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Subnetting with Subnet Mask"
+            }
+          },
+          {
+            "id": "e1631676dd392e0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/S/Subnetting/Total Number of Subnets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Total Number of Subnets"
+            }
+          },
+          {
+            "id": "a326458553978b41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/S/Subnetting/Total Usable Hosts per Subnet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Total Usable Hosts per Subnet"
             }
           }
         ]
@@ -191,39 +251,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "767ad9a10f3cd34e",
+  "active": "bf196ec825c38c59",
   "lastOpenFiles": [
+    "Concepts/S/Subnetting/Slash Subnet convert into Subnet Mask.md",
+    "Concepts/S/Subnetting/Private Address Range.md",
+    "Concepts/S/Subnetting/Total Usable Hosts per Subnet.md",
+    "Concepts/S/Subnetting/Total Number of Subnets.md",
+    "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
+    "Concepts/R/Routing/Static Routing.md",
+    "Concepts/R/Routing/Types of Routing/BGP.md",
+    "Concepts/R/Routing/Types of Routing/EIGRP.md",
+    "Concepts/R/Routing/Types of Routing/IS-IS.md",
+    "Concepts/R/Routing/Types of Routing/OSPF.md",
+    "Concepts/R/Routing/Types of Routing/RIP.md",
+    "Concepts/R/Routing/General Routing Concepts.md",
+    "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
+    "Concepts/R/Routing/Protocol Types/Path Vector Routing Protocol.md",
+    "Concepts/R/Routing/Protocol Types/Link-State Routing Protocol.md",
+    "Concepts/R/Routing/Protocol Types/Distance Vector Routing Protocol.md",
+    "Concepts/R/Routing/Protocol Types/Advanced Distance Vector Hybrid.md",
+    "Concepts/H/Untitled.md",
     "Plan/Gemini_Network+_Study_V3.md",
     "Concepts/H/Hardware Tools.md",
     "Concepts/C/Connection Methods.md",
-    "Concepts/H/Untitled.md",
     "Concepts/V/Validation Test.md",
     "Concepts/T/Tabletop exercise.md",
     "Concepts/E/EOS.md",
     "Concepts/E/EOL.md",
     "Concepts/S/Subinterfaces.md",
     "Concepts/I/IPAM.md",
-    "Concepts/I/Untitled.md",
-    "Concepts/P/Physical Infrastructure.md",
-    "Concepts/S/Sub.md",
-    "Concepts/P/Untitled 1.md",
-    "Concepts/A/Antenna.md",
-    "Concepts/I/IPv4.md",
-    "Plan/Opus_Network+_Study_V2.md",
-    "Concepts/N/Network Attacks.md",
-    "Concepts/S/SDN.md",
-    "Concepts/W/Wireless Troubleshooting.md",
-    "Concepts/N/Network Performance Troubleshooting.md",
-    "Concepts/P/Physical & Hardware Troubleshooting.md",
-    "Gemini_Notes_10_Jul.md",
-    "Concepts/T/Troubleshooting.md",
-    "Concepts/T/TACACS+.md",
-    "Concepts/R/RADIUS.md",
     "Images/Pasted image 20260207161447.png",
     "Quiz/eCollege",
     "Quiz/ExamCompass",
     "Images/Pasted image 20260622135329.png",
-    "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Concepts/R/Routing/Types of Routing",
     "Concepts/R/Routing/Protocol Types",
     "Concepts/L/Untitled",

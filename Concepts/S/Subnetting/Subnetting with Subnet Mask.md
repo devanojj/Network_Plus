@@ -19,7 +19,7 @@ For X :
 0, 16, 32, 48, 64, 80 (Go up by 16)
 77 $\rightarrow$ is the number and it is between the numbers 64 & 80 so we choose 64
 
-==165.245.64.14==
+==165.245.64.0==
 
 ******
 
