@@ -1,4 +1,4 @@
-Bridge Protocol Data Unit 
+**Bridge Protocol Data Unit** 
 
 Message [[Switch]]s exchange to run [[STP]]
 How root bridge is chosen, the switch with the lowest [[Bridge ID]]

@@ -1,3 +1,3 @@
-Industrial Control System
+**Industrial Control System**
 
 [[SCADA]] is an example 

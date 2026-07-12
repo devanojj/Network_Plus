@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1d31ee4df10451c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plan/Opus_Network+_Study_V2.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Opus_Network+_Study_V2"
-            }
-          },
-          {
             "id": "154b05c97bd207b9",
             "type": "leaf",
             "pinned": true,
@@ -40,21 +24,48 @@
             }
           },
           {
-            "id": "0994103ccc59fbd7",
+            "id": "79c91113a91cd2bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/N/NAT.md",
+                "file": "Concepts/D/DRP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NAT"
+              "title": "DRP"
+            }
+          },
+          {
+            "id": "bb1cac532578a255",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/C/Change Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Change Management"
+            }
+          },
+          {
+            "id": "e9f2d19621f4325d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/I/IaC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IaC"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BOOT",
+                "query": "DRP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,34 +239,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "767ad9a10f3cd34e",
+  "active": "154b05c97bd207b9",
   "lastOpenFiles": [
-    "Concepts/N/NAT.md",
+    "Concepts/I/IaC.md",
+    "Gemini_Notes_10_Jul.md",
+    "Concepts/C/Change Management.md",
+    "Concepts/D/DRP.md",
+    "Concepts/I/ICS.md",
+    "Concepts/O/OT.md",
+    "Concepts/I/IoT.md",
+    "Concepts/S/SD-WAN.md",
+    "Concepts/L/LACP.md",
+    "Concepts/E/EtherChannel.md",
     "Concepts/I/IPv6.md",
     "Plan/Opus_Network+_Study_V2.md",
-    "Gemini_Notes_10_Jul.md",
+    "Concepts/S/STP.md",
+    "Concepts/S/Root Guard.md",
+    "Concepts/B/BPDU.md",
+    "Concepts/B/BPDU Guard.md",
+    "Concepts/N/NDP.md",
+    "Concepts/V/VLAN.md",
+    "Concepts/M/Multitenancy Cloud.md",
+    "Concepts/N/NSG.md",
+    "Concepts/N/NAT.md",
+    "Concepts/V/VPC.md",
+    "Concepts/N/NFV.md",
     "Concepts/M/NAT64.md",
     "Concepts/D/Dual Stack.md",
     "Concepts/P/PAT.md",
-    "Concepts/N/NAT Cloud Gateway.md",
-    "Concepts/E/EUI 64.md",
-    "Plan/Gemini_Network+_Study_V3.md",
-    "Concepts/N/NDP.md",
-    "Concepts/T/TCP.md",
-    "Concepts/S/Switch.md",
-    "Plan/Opus_Network+_Study.md",
-    "Concepts/B/BOOTP.md",
-    "Concepts/D/DHCP Snooping.md",
-    "Concepts/D/DHCP.md",
-    "Concepts/A/Authentication.md",
-    "Concepts/K/Kerberos.md",
-    "Concepts/C/Clustering.md",
-    "Concepts/M/MDT.md",
-    "Concepts/S/SIEM.md",
-    "Quiz/ExamCompass/Topic Quiz/Network Monitoring (Done).md",
-    "Quiz/ExamCompass/Acronyms Quiz Done/Acronyms Test 4 (Done).md",
-    "Quiz/ExamCompass/Topic Quiz/Wireless Networking (Done).md",
-    "Concepts/W/Wireless Authenication.md",
     "Images/Pasted image 20260207161447.png",
     "Quiz/eCollege",
     "Quiz/ExamCompass",

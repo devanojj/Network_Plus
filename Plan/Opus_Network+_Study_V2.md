@@ -1,11 +1,7 @@
 # CompTIA Network+ (N10-009) — Comprehensive Study Notes Audit
 
-> [!NOTE]
-> This audit was performed against the **N10-009 exam objectives** (effective June 2024). Your vault contains **362 concept notes**, **33 quiz files**, and **3 tool notes**. Each section below maps your coverage to the five official exam domains.
-
 ---
 
-## DOMAIN ALIGNMENT MAP
 
 ### N10-009 Exam Domains & Weightings
 
@@ -27,98 +23,53 @@
 
 ### Domain 2.0 — Network Implementation (19%)
 
-| Objective | Your Notes | Coverage |
-|-----------|-----------|----------|
-| 2.1 Routing protocols & concepts | [General Routing Concepts.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/R/Routing/General%20Routing%20Concepts.md), OSPF, BGP, RIP, EIGRP, IS-IS files | ✅ **Strong** — best section |
-| 2.2 Switching & VLANs | [VLAN.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/V/VLAN.md), [STP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/STP.md), [RSTP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/R/RSTP.md), [Trunk Port.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/T/Trunk%20Port.md) | ⚠️ Concepts covered but thin |
-| 2.3 Wireless standards & config | [802.11.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/802/802.11.md), [Wireless Authenication.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/W/Wireless%20Authenication.md), [Wireless Modes.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/W/Wireless%20Modes.md) | ✅ Good |
-| 2.4 WAN technologies | [MPLS.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/M/MPLS.md), [VPN.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/V/VPN.md), [GRE.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/G/GRE.md), [IPSec.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IPSec.md) | ⚠️ Missing SD-WAN depth |
+| Objective                       | Your Notes                                                                                                                                                                                                                                                                                                                                 | Coverage                     |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
+| 2.2 Switching & VLANs           | [VLAN.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/V/VLAN.md), [STP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/STP.md), [RSTP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/R/RSTP.md), [Trunk Port.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/T/Trunk%20Port.md) | ⚠️ Concepts covered but thin |
+| 2.4 WAN technologies            | [MPLS.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/M/MPLS.md), [VPN.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/V/VPN.md), [GRE.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/G/GRE.md), [IPSec.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IPSec.md)               | ⚠️ Missing SD-WAN depth      |
 
 ### Domain 3.0 — Network Operations (18%)
 
-| Objective | Your Notes | Coverage |
-|-----------|-----------|----------|
-| 3.1 Network monitoring | [SNMP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/SNMP.md), [Syslog.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/Syslog.md), [NetFlow.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/N/NetFlow.md), [SIEM.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/SIEM.md) | ✅ Adequate |
-| 3.2 Network documentation | [Logical Network Diagram.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/L/Logical%20Network%20Diagram.md), [Physical Network Map.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/P/Physical%20Network%20Map.md), [SLA.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/SLA.md), [SOW.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/SOW.md) | ⚠️ Missing change management |
-| 3.3 High availability & DR | [DRP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/D/DRP.md) (**1 line**), [Hot Site.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/H/Hot%20Site.md), [Backup.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/B/Backup.md), [FHRP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/F/FHRP.md) | 🔴 **DRP/BCP critically thin** |
-| 3.4 IaC & automation | [IaC.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IaC.md), [SDN.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/SDN.md) (**UPDATED**), [NFV.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/N/NFV.md) | ✅ SDN expanded significantly |
+| Objective                  | Your Notes                                                                                                                                                                                                                                                                                                                                                                                               | Coverage                       |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| 3.2 Network documentation  | [Logical Network Diagram.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/L/Logical%20Network%20Diagram.md), [Physical Network Map.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/P/Physical%20Network%20Map.md), [SLA.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/SLA.md), [SOW.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/SOW.md) | ⚠️ Missing change management   |
+| 3.3 High availability & DR | [DRP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/D/DRP.md) (**1 line**), [Hot Site.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/H/Hot%20Site.md), [Backup.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/B/Backup.md), [FHRP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/F/FHRP.md)                                                  | 🔴 **DRP/BCP critically thin** |
+| 3.4 IaC & automation       | [IaC.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IaC.md), [SDN.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/SDN.md) (**UPDATED**), [NFV.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/N/NFV.md)                                                                                                                                                   | ✅ SDN expanded significantly   |
 
 ### Domain 4.0 — Network Security (20%)
 
-| Objective | Your Notes | Coverage |
-|-----------|-----------|----------|
-| 4.1 Common attacks | [Attacks.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/A/Attacks.md), [Network Attacks.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/N/Network%20Attacks.md), [SYN Flood.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/SYN%20Flood.md), [Phishing.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/P/Phishing.md) | ✅ Good breadth |
-| 4.2 Security appliances & technologies | [Firewall.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/F/Firewall.md) (**thin**), [IDS.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IDS.md), [IPS.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IPS.md), [WAF.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/W/WAF.md), [NGFW.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/N/NGFW.md) | ⚠️ Firewall note needs work |
-| 4.3 Authentication & access | [AAA.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/A/AAA.md), [RADIUS.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/R/RADIUS.md), [TACACS+.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/T/TACACS+.md), [802.1X.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/802/802.1X.md), [Kerberos.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/K/Kerberos.md) | ✅ Good |
-| 4.4 Network hardening | [Network Hardening.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/N/Network%20Hardening.md) (**1 line**), [ACL.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/A/ACL.md), [DMZ.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/D/DMZ.md), [ZTA.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/Z/ZTA.md) | 🔴 **Hardening note critically thin** |
-| 4.5 Remote access & VPN | [VPN.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/V/VPN.md), [IPSec.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IPSec.md), [SSL.TLS.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/SSL.TLS.md) | ✅ Adequate |
+| Objective                              | Your Notes                                                                                                                                                                                                                                                                                                                                                                                                                  | Coverage                              |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| 4.2 Security appliances & technologies | [Firewall.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/F/Firewall.md) (**thin**), [IDS.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IDS.md), [IPS.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IPS.md), [WAF.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/W/WAF.md), [NGFW.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/N/NGFW.md) | ⚠️ Firewall note needs work           |
+| 4.4 Network hardening                  | [Network Hardening.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/N/Network%20Hardening.md) (**1 line**), [ACL.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/A/ACL.md), [DMZ.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/D/DMZ.md), [ZTA.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/Z/ZTA.md)                                                           | 🔴 **Hardening note critically thin** |
+
 
 ### Domain 5.0 — Network Troubleshooting (19%)
 
-| Objective | Your Notes | Coverage |
-|-----------|-----------|----------|
-| 5.1 Troubleshooting methodology | [Troubleshooting.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/T/Troubleshooting.md) | ✅ Steps covered |
-| 5.2 Cable/connectivity issues | [Cabling Issues Troubleshooting.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/C/Cabling%20Issues%20Troubleshooting.md), [Time Domain Reflectometer.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/T/Time%20Domain%20Reflectometer.md) | ⚠️ Needs scenario depth |
-| 5.3 Software troubleshooting | [Software for Troubleshooting.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/Software%20for%20Troubleshooting.md), [Network Device Commands.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/N/Network%20Device%20Commands.md) | ⚠️ Commands listed but thin on *when to use which* |
-| 5.4 Wireless troubleshooting | Scattered across 802.11, channel notes | 🔴 **No dedicated wireless troubleshooting note** |
-| 5.5 Network performance issues | [Latency.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/L/Latency.md), [Jitter.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/J/Jitter.md), [Bandwidth Utilisation.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/B/Bandwidth%20Utilisation.md) | ⚠️ Lacks troubleshooting *scenarios* |
+| Objective                       | Your Notes                                                                                                                                                                                                                                                                                   | Coverage                                           |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 5.2 Cable/connectivity issues   | [Cabling Issues Troubleshooting.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/C/Cabling%20Issues%20Troubleshooting.md), [Time Domain Reflectometer.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/T/Time%20Domain%20Reflectometer.md)                         | ⚠️ Needs scenario depth                            |
+| 5.3 Software troubleshooting    | [Software for Troubleshooting.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/Software%20for%20Troubleshooting.md), [Network Device Commands.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/N/Network%20Device%20Commands.md)                                 | ⚠️ Commands listed but thin on *when to use which* |
+| 5.4 Wireless troubleshooting    | Scattered across 802.11, channel notes                                                                                                                                                                                                                                                       | 🔴 **No dedicated wireless troubleshooting note**  |
+| 5.5 Network performance issues  | [Latency.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/L/Latency.md), [Jitter.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/J/Jitter.md), [Bandwidth Utilisation.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/B/Bandwidth%20Utilisation.md) | ⚠️ Lacks troubleshooting *scenarios*               |
 
-### Orphaned Notes (Not directly mapped to any objective)
 
-These notes exist but don't cleanly map to a specific N10-009 objective — they're either tangential or too deep:
-
-| Note | Relevance |
-|------|-----------|
-| [VTP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/V/VTP.md) | TANGENTIAL — VTP is Cisco-proprietary, rarely tested on N10-009 |
-| [VLAN Database.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/V/VLAN%20Database.md) | TANGENTIAL — Implementation detail beyond exam scope |
-| [VLAN Pruning.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/V/VLAN%20Pruning.md) | TANGENTIAL — Cisco-specific feature |
-| [Switch Commands.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/Switch%20Commands.md) | TANGENTIAL — Cisco IOS commands (exam is vendor-neutral) |
-| [Listening State.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/L/Listening%20State.md) | RELEVANT — Part of STP but very granular |
-| [VPN Split Tunneling.md](file:///Users/devano/Documents/Obsidian/Network+/Tools/Raspberry%20PI/VPN%20Split%20Tunneling.md) | TANGENTIAL — Lab exercise, not exam content |
-| [ISAKMP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/ISAKMP.md) | TANGENTIAL — Too deep; IKE is sufficient |
-| [RC4.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/R/RC4.md) | TANGENTIAL — Deprecated cipher, brief mention at most |
-
----
-
-## SECTION-BY-SECTION AUDIT
-
-### 🟢 EXCELLENT (ESSENTIAL — Accurate, good depth)
-
-| Note | Domain | Assessment |
-|------|--------|------------|
-| [DNS.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/D/DNS.md) | 1.6 | **Exemplary.** Record types, zones, server types, lookup types, DNSSEC, DoH/DoT — all accurate and exam-appropriate depth. This is your gold-standard note. |
-| [General Routing Concepts.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/R/Routing/General%20Routing%20Concepts.md) | 2.1 | **Excellent.** AD table, LPM, route selection hierarchy, asymmetric routing — all correct. The ACL vs routing table warning is a great exam tip. |
-| [802.11.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/802/802.11.md) | 2.3 | **Strong.** Standards table is accurate. Good coverage of 802.11k/r/v/s. Includes OFDMA, MU-MIMO, beamforming. Study tips at bottom are smart. |
-| [Wireless Authenication.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/W/Wireless%20Authenication.md) | 4.3 | **Solid.** WEP→WPA→WPA2→WPA3 progression, PSK vs Enterprise, RADIUS requirement. All accurate. |
-| [SNMP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/SNMP.md) | 3.1 | **Good.** v1/v2c vs v3 differences, manager/agent model, traps vs polling. Accurate. |
-| [Ports TCP & UDP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/P/Ports%20TCP%20%26%20UDP.md) | 1.5 | **Good.** Covers all exam-required ports. Duplicated info at bottom is harmless but redundant. |
-| [OSI.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/O/OSI.md) | 1.1 | **Good** for layers 5-7 and WAN protocols. Layers 1-4 are too terse. |
-| [Subnetting with Subnet Mask.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/Subnetting/Subnetting%20with%20Subnet%20Mask.md) | 1.4 | **Good method** — calculations corrected now. |
-| [ACL.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/A/ACL.md) | 4.4 | **Accurate.** Standard vs extended placement rule correct. Top-down evaluation correct. |
-| [Network Attacks.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/N/Network%20Attacks.md) | 4.1 | **Good.** VLAN hopping techniques (switch spoofing + double tagging) accurately described. |
-| [Troubleshooting.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/T/Troubleshooting.md) | 5.1 | **Accurate** 7-step methodology. Layer-to-symptom table is a great quick reference. |
-
----
 
 ### 🟡 NEEDS IMPROVEMENT (RELEVANT — Correct but too shallow)
 
-| Note | Domain | Assessment | What's Missing |
-|------|--------|------------|----------------|
-| [TCP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/T/TCP.md) | 1.5 | Only 3-way handshake. **Too shallow.** | Connection teardown (FIN/ACK), windowing/flow control, connection-oriented vs connectionless comparison, TCP flags (SYN, ACK, FIN, RST, PSH, URG) |
-| [IPv6.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IPv6.md) | 1.4 | Only 10 lines. | Address types (global unicast, unique local, link-local, multicast), NDP (Neighbor Discovery Protocol), prefix lengths (/64, /48, /128), EUI-64 |
-| [VLAN.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/V/VLAN.md) | 2.2 | 6 lines covering native, voice, inter-VLAN routing. | Management VLAN, default VLAN (VLAN 1), VLAN ranges (1-1005 normal, 1006-4094 extended), port assignment methods |
-| [NAT.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/N/NAT.md) | 1.6 | 4 lines. Accurate definitions. | Inside local/inside global/outside local/outside global terminology, NAT overload = PAT, when to use each type |
-| [Firewall.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/F/Firewall.md) | 4.2 | 3 lines. Just types listed. | Stateful vs stateless explanation, packet filtering vs application-layer, implicit deny rule, firewall rule order, UTM/NGFW features |
-| [VPN.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/V/VPN.md) | 4.5 | Covers IPsec components and SSL VPN. | Client-to-site vs site-to-site comparison table, always-on VPN, tunnel vs transport mode detail (currently just referenced), remote access VPN authentication |
-| [IPSec.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IPSec.md) | 4.5 | Transport vs tunnel mode ✅. | Phase 1 vs Phase 2 negotiation, SA (Security Association), when tunnel mode is used vs transport mode (scenarios) |
-| [IaC.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IaC.md) | 3.4 | Good definitions, lists tools. | JSON/YAML/XML data formats (exam tests this), API types (REST, SOAP), version control concepts (git branching/merging) |
-| [DRP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/D/DRP.md) | 3.3 | **1 line — just the acronym.** | RTO vs RPO definitions and difference, cold/warm/hot site comparison, BCP vs DRP, backup types (full/incremental/differential), geographic redundancy |
-| [Network Hardening.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/N/Network%20Hardening.md) | 4.4 | **1 line.** | Disabling unused ports, changing default credentials, firmware updates, disabling unnecessary services, DHCP snooping, DAI, port security sticky, network segmentation |
-| [STP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/STP.md) | 2.2 | Port states listed. | Root bridge election process, port roles (root/designated/blocked), cost calculation, BPDU guard/root guard |
-| [EtherChannel.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/E/EtherChannel.md) | 2.2 | 1 line. | LACP vs PAgP, configuration modes (active/passive/on), maximum links, benefits (redundancy + bandwidth aggregation) |
-| [Virtualisation.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/V/Virtualisation.md) | 1.7 | 1 line. | Type 1 vs Type 2 hypervisors, vSwitch/vNIC, containers vs VMs, network function virtualisation (NFV), resource pooling |
-| [Physical Infrastructure.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/P/Physical%20Infrastructure.md) | 3.2 | Power concepts good. | Rack units (U), hot/cold aisle containment, cable management, patch panels, 110/66 punch-down blocks, labelling standards |
-| [ZTA.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/Z/ZTA.md) | 4.4 | 2 lines. | Micro-segmentation, policy engine/decision/enforcement points, never trust always verify principle, identity-based access, continuous validation |
+| Note                                                                                                                   | Domain | Assessment                           | What's Missing                                                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Firewall.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/F/Firewall.md)                                 | 4.2    | 3 lines. Just types listed.          | Stateful vs stateless explanation, packet filtering vs application-layer, implicit deny rule, firewall rule order, UTM/NGFW features                                   |
+| [VPN.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/V/VPN.md)                                           | 4.5    | Covers IPsec components and SSL VPN. | Client-to-site vs site-to-site comparison table, always-on VPN, tunnel vs transport mode detail (currently just referenced), remote access VPN authentication          |
+| [IPSec.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IPSec.md)                                       | 4.5    | Transport vs tunnel mode ✅.          | Phase 1 vs Phase 2 negotiation, SA (Security Association), when tunnel mode is used vs transport mode (scenarios)                                                      |
+| [IaC.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/I/IaC.md)                                           | 3.4    | Good definitions, lists tools.       | JSON/YAML/XML data formats (exam tests this), API types (REST, SOAP), version control concepts (git branching/merging)                                                 |
+| [DRP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/D/DRP.md)                                           | 3.3    | **1 line — just the acronym.**       | RTO vs RPO definitions and difference, cold/warm/hot site comparison, BCP vs DRP, backup types (full/incremental/differential), geographic redundancy                  |
+| [Network Hardening.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/N/Network%20Hardening.md)             | 4.4    | **1 line.**                          | Disabling unused ports, changing default credentials, firmware updates, disabling unnecessary services, DHCP snooping, DAI, port security sticky, network segmentation |
+| [STP.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/S/STP.md)                                           | 2.2    | Port states listed.                  | Root bridge election process, port roles (root/designated/blocked), cost calculation, BPDU guard/root guard                                                            |
+| [EtherChannel.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/E/EtherChannel.md)                         | 2.2    | 1 line.                              | LACP vs PAgP, configuration modes (active/passive/on), maximum links, benefits (redundancy + bandwidth aggregation)                                                    |
+| [Virtualisation.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/V/Virtualisation.md)                     | 1.7    | 1 line.                              | Type 1 vs Type 2 hypervisors, vSwitch/vNIC, containers vs VMs, network function virtualisation (NFV), resource pooling                                                 |
+| [Physical Infrastructure.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/P/Physical%20Infrastructure.md) | 3.2    | Power concepts good.                 | Rack units (U), hot/cold aisle containment, cable management, patch panels, 110/66 punch-down blocks, labelling standards                                              |
+| [ZTA.md](file:///Users/devano/Documents/Obsidian/Network+/Concepts/Z/ZTA.md)                                           | 4.4    | 2 lines.                             | Micro-segmentation, policy engine/decision/enforcement points, never trust always verify principle, identity-based access, continuous validation                       |
 
 ---
 
