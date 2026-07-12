@@ -1,1 +1,1 @@
-Simulated scenario conducted in a controlled environment, typically involving discussion and planning around hypothetical security incidents 
+A low-impact, discussion-based test. The IT team sits in a conference room, someone reads a disaster scenario, and everyone talks through their roles and the recovery plan. No actual systems are touched. 
