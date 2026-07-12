@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 **Dynamic Frequency Selection**
 
 Specifically handles automatic channel changes

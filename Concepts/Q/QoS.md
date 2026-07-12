@@ -1,3 +1,5 @@
+#domain/5-0-Network-Troubleshooting
+
 ## **What is Quality of Service (QoS)?**
 
 - A suite of technologies that allows network administrators to prioritize critical traffic (e.g., real-time voice and video) over less time-sensitive data (e.g., web browsing or email) on a congested network link.

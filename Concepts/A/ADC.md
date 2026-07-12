@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 **Content Gateway / Application Delivery Controller**
 
 A network appliance (often acting as a Layer 7 proxy or advanced load balancer) that sits between the users and the servers or internet. It manages, filters, and distributes application traffic

@@ -1,3 +1,5 @@
+#domain/2-0-Network-Implementation
+
 *   **Interference:** Usually caused by physical obstacles or other devices on the same frequency (microwaves, cordless phones, Bluetooth on 2.4GHz).
 
 *   **Channel Overlap:** Occurs when adjacent APs use overlapping frequencies (e.g., Channels 1, 2, 3). In 2.4GHz, only use non-overlapping channels: **1, 6, and 11**.

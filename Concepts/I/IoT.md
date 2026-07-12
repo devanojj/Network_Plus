@@ -1,3 +1,5 @@
+#domain/4-0-Network-Security
+
 **Internet of Things**
 
 - IoT / IIoT – Internet of Things / Industrial IoT devices are common attack surface; must be segmented off main network.

@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 Part of Wi-Fi 802.11
 Avoid collisions 
 Listen before talk access method 

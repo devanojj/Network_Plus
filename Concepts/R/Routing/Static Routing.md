@@ -1,3 +1,5 @@
+#domain/2-0-Network-Implementation
+
 - Non-adaptive routing (configured manually by administrator)
 - Best for small networks or simple topologies (stub networks)
 - Default Administrative Distance (AD) = **1**

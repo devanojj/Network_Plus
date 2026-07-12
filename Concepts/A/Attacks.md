@@ -1,3 +1,5 @@
+#domain/4-0-Network-Security
+
 *VLAN hopping*
 Access data on another VLAN, typically by manipulating traffic with an unauthorised VLAN ID
 Caused by switch spoofing + double tagging

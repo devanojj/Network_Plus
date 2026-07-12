@@ -1,3 +1,5 @@
+#domain/2-0-Network-Implementation
+
 Company that can sell domain names i.e Godaddy
 
 - **The Registrar Account:** Controls **ownership and delegation**. It answers the question: _"Who owns `company.com` and which DNS servers should handle its requests?"_

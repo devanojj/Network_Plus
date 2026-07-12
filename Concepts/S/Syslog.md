@@ -1,3 +1,5 @@
+#domain/3-0-Network-Operations
+
 - Used for sending and receiving a log or event message.
 - Routers, switches, firewalls and servers
 - UDP Port 514 (most common) can also be TCP 514

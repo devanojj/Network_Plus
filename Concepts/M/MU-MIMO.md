@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 **MIMO (Multiple Input, Multiple Output)** uses multiple antennas to send several independent data streams _at the same time_ over the same channel, using a technique called spatial multiplexing.
 
 

@@ -1,3 +1,5 @@
+#domain/3-0-Network-Operations
+
 *Scope* 
 The range of consecutive IP addresses that the DHCP server is allowed to distribute to clients on a specific subnet (e.g., `192.168.1.100` to `192.168.1.200`).
 

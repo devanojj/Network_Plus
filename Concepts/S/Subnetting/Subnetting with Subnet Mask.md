@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 *Get Block Size (256 - X) :* Where X is octet where amount of devices is decided 
 *Find the network ID :* Go up by the block size, 1st is the network ID
 

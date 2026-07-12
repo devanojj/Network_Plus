@@ -1,3 +1,5 @@
+#domain/3-0-Network-Operations
+
 **Domain Name System**
 
 Main Concepts : [[A]], [[AAAA]], [[CNAME]], [[MX]], [[Nameserver]], [[DNS TXT]], [[PTR Record]]

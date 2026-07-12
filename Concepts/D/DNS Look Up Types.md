@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 
 *Recursive*
 In a recursive lookup, the client machine puts the entire burden of resolution onto the local DNS server. 

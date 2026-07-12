@@ -1,3 +1,5 @@
+#domain/5-0-Network-Troubleshooting
+
 **Displays active network connections, routing tables, interface statistics**
 
 

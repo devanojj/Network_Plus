@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 - Network authentication protocol — uses tickets, not passwords over the wire
 - Key Distribution Center (KDC) issues Ticket Granting Tickets (TGTs)
 - Port 88

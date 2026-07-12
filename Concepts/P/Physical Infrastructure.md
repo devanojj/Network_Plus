@@ -1,3 +1,5 @@
+#domain/2-0-Network-Implementation
+
 **Port-side exhaust -** flow of hot air within the equipment rack
 
 **Port-side intake -** design in which a network equipment's ports face the cold aisle enabling direct and unobstructed flow of cool air into the equipment 

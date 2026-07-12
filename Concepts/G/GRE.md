@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 *Generic Routing Encapsulation*
 - Tunneling protocol that encapsulates packets in a network protocol inside another
 - No security itself 

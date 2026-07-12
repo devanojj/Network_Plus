@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 DNS-based load balancing technique. Instead of an `A` or `AAAA` record resolving to just one IP address, the DNS server holds multiple IP addresses for a single hostname
 
 

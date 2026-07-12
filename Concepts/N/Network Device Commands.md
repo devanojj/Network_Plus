@@ -1,3 +1,5 @@
+#domain/5-0-Network-Troubleshooting
+
 ~~**MAC address table**~~ 
 ~~`show mac-address-table` → maps MAC addresses to switch ports (L2 table) - Switch-only command; used to verify port associations or track a device -~~ 
 ~~*Distractor trap:* `arp -a` is a host OS command (Windows/Linux), NOT a Cisco switch command~~ 

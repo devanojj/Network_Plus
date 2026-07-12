@@ -1,3 +1,5 @@
+#domain/5-0-Network-Troubleshooting
+
 *   **Latency vs. Jitter:** Latency is the delay in packets reaching their destination. Jitter is the *variation* in that delay. Jitter is a killer for real-time traffic like VoIP and video.
 *   **Interface Errors:**
     *   **CRC Errors (Cyclic Redundancy Check):** Packets arrived corrupted. Usually indicates a bad physical cable, faulty NIC, or duplex mismatch.

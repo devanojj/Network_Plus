@@ -1,3 +1,5 @@
+#domain/2-0-Network-Implementation
+
 - Path vector routing protocol
 - Exterior gateway protocol (EGP) — routes between autonomous systems (AS)
 - Slow convergence by design — prioritises stability over speed

@@ -1,3 +1,5 @@
+#domain/2-0-Network-Implementation
+
 
 - **What it does:** It protects edge ports (ports where computers, printers, and end-user devices connect) by instantly shutting them down if they receive a STP configuration message (a [[BPDU]]).
 

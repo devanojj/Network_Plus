@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 **show mac-address-table**
 - **Platform**: Switches (mostly Layer 2)
 - **Purpose**: Displays the MAC address table of the device.

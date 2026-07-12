@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 Placing a device or appliance directly in the path of network traffic, meaning all traffic physically passes through it.
 
 

@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 - **Carrier Sensing** — a device listens to the network before transmitting to check if the line is free
 - **Multiple Access** — multiple devices share the same communication medium
 - **Collision Detection** — if two devices transmit simultaneously and a collision occurs, they detect it, stop, wait a random back-off time, and retransmit

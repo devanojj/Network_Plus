@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 Each spoke is connected to the hub. They don't connect to each other
 This is more lower cost and more scalable than the hub
 

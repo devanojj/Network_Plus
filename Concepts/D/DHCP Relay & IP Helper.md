@@ -1,3 +1,5 @@
+#domain/3-0-Network-Operations
+
 
 - **The Problem**: [[DHCP]] Discover and Request packets are sent as local broadcasts (`255.255.255.255`). Routers block broadcasts by default. If a DHCP server is on a different subnet/VLAN than the client, the client cannot obtain an IP.
 - **The Solution**: A **DHCP Relay Agent** (or **IP Helper** on Cisco switches/routers).

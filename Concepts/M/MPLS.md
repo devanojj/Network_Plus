@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 Mulitprotocol Label Switching
 
 Uses labels to direct packets through a path (Label Switched Paths) rather than using IP lookups at router.

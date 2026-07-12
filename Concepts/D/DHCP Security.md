@@ -1,3 +1,5 @@
+#domain/3-0-Network-Operations
+
 *[[DHCP]] Starvation*
 An attacker floods a DHCP server with fake DHCP Discover packets using spoofed MAC addresses, exhausting all available IP addresses in the scope. Legitimate clients are then unable to obtain an IP.
 

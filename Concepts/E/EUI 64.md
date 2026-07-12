@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 An [[IPv6]] method for a device to auto-generate its 64-bit interface ID directly from its 48-bit MAC address (no DHCP needed).
 
 **Steps:**

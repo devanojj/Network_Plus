@@ -1,3 +1,5 @@
+#domain/2-0-Network-Implementation
+
 - Wi-Fi is shared time on the air (“airtime”), not shared bandwidth like a cable.
 - **Airtime fairness (ATF)**  tries to prevent slow/weak clients from hogging airtime. Every device gets the exact same amount of time (e.g., 10 milliseconds) to talk, regardless of its speed.
 - Wi-Fi is half duplex

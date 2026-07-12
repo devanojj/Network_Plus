@@ -1,3 +1,5 @@
+#domain/3-0-Network-Operations
+
 Central log system that collects firewalls, switches, routers, servers, IDS/IPS.
 Generates alerts on suspicious activity 
 Doesn't look at live traffic

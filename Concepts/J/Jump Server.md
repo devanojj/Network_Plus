@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 (Bastion host) gateway that remote admin connect through to reach internal servers. Centralised authentication, session logging, limited attack surface
 
 

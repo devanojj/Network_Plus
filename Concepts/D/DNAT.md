@@ -1,3 +1,5 @@
+#domain/2-0-Network-Implementation
+
 Destination network address translation
 Let internet users reach a server sitting in the [[DMZ]]
 

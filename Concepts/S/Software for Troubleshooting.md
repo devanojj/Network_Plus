@@ -1,3 +1,5 @@
+#domain/5-0-Network-Troubleshooting
+
 [[Ping]]
 
 *[[Tracert]]: Windows* | *Traceroute: Linux / macOS*

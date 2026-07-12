@@ -1,3 +1,5 @@
+#domain/2-0-Network-Implementation
+
 Most commonly, administrators will configure jumbo frames with an MTU value of 9,000 bytes
 
 Every time a network device sends a packet, there is processing overhead required to read the header, route it, and verify its integrity. By allowing jumbo frames, you are stuffing significantly more data into a single packet. Because the data is sent in fewer packets, the networking hardware has fewer headers to process, which reduces processing overhead and increases overall throughput.

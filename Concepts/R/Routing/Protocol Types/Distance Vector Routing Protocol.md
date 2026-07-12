@@ -1,3 +1,5 @@
+#domain/2-0-Network-Implementation
+
 - Distance vector routing protocol
 - Routers advertise their routing table to directly connected neighbours ("routing by rumour")
 - Selects best path based on **hop count**

@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 **Denial-of-Service (DoS)** attack that abuses the **TCP three-way handshake**.
 
 An attacker sends **many SYN packets** to a server, often using **spoofed source IP addresses**.

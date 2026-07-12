@@ -1,3 +1,5 @@
+#domain/3-0-Network-Operations
+
 *Simple network management protocol*
 - Used for monitoring CPU, memory usage, interface status, device failure, alters (traps)
 - For devices like routers, switches, firewalls, servers and printers

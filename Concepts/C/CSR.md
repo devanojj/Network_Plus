@@ -1,3 +1,5 @@
+#domain/4-0-Network-Security
+
 **Certificate Signing Request**
 Before a server can obtain a signed digital certificate from a [[CA]], the server administrator must generate a CSR locally on the machine. 
 

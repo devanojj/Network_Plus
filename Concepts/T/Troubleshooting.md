@@ -1,3 +1,5 @@
+#domain/5-0-Network-Troubleshooting
+
 ==**Troubleshooting Steps**==
 1. Identify the problem (includes duplicating the problem, question users)
 2. Establish a theory of probable cause

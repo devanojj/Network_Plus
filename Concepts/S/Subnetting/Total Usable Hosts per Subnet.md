@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 Host bits : 32 - CIDR
 Total addresses : 2^(host bits) 
 Total usable hosts : Total addresses -2

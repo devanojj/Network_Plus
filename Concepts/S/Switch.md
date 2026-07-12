@@ -1,3 +1,5 @@
+#domain/1-0-Networking-Concepts
+
 A switch is a Layer 2 device that learns MAC addresses and forwards frames only to the specific port associated with the destination MAC address.
 
 
