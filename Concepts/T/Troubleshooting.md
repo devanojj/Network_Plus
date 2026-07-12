@@ -1,4 +1,4 @@
-*Troubleshooting Steps*
+==**Troubleshooting Steps**==
 1. Identify the problem (includes duplicating the problem, question users)
 2. Establish a theory of probable cause
 3. Test the theory (includes reestablishing a new theory or escalating the problem)
@@ -7,7 +7,7 @@
 6. Verify full functionality  (and implement preventative measures)
 7. Document finds
 
-*Methodologies*
+**==Methodologies==**
 Top-Down: L7 $\rightarrow$ L1
 Bottom-Up: L1 $\rightarrow$ L7
 
@@ -21,5 +21,9 @@ Bottom-Up: L1 $\rightarrow$ L7
 | **Website down**               | **L7**  |
 
 
-
 Identify → Theory → Test → Plan/Implement → Verify → Document.
+
+
+[[Wireless Troubleshooting]]
+[[Network Performance Troubleshooting]]
+[[Physical & Hardware Troubleshooting]]

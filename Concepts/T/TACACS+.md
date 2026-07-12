@@ -1,11 +1,10 @@
-Terminal Access Controller Access-Control System Plus
-Used for [[AAA]]
-Instead of creating local accounts on every router, devices can login to a central TACACS+ server
+**Terminal Access Controller Access-Control System Plus**
 
-TCP 49 
-It encrypts the entire packet body, came from CISCO
-Used for full authentication and administration, if only authentication for Wi-Fi or VPN then use [[RADIUS]] 
+- Used for [[AAA]]
+- Instead of creating local accounts on every router, devices can login to a central TACACS+ server. Used for full authentication and administration. 
+- TCP 49 
+- Encrypts the entire packet, not just the password. More than [[RADIUS]], came from Cisco
+- Used for network devices 
 
 
-It **encrypts the entire packet**, not just the password. Which is more than [[RADIUS]]
-Used for network devices 
+If only authentication for Wi-Fi or VPN then use [[RADIUS]] 

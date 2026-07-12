@@ -2,4 +2,6 @@
 
 Used in WPA2/WPA3 Enterprise for authentication 
 
-The most common AAA protocol. It combines Authorisation and Authentication. It's primarily used for network access (e.g., 802.1X for Wi-Fi, VPN access). It only encrypts the password in the access-request packet.
+The most common [[AAA]] protocol. It combines authorisation and authentication. 
+
+Used for network access (e.g., 802.1X for Wi-Fi, VPN access). It ONLY encrypts the password in the access-request packet.

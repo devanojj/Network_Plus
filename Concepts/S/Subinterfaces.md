@@ -1,0 +1,1 @@
+Used in "Router on a Stick" setups. One physical router port is divided into multiple logical subinterfaces (e.g., `GigabitEthernet0/0.10` for VLAN 10, `0/0.20` for VLAN 20) to route traffic between different VLANs.
