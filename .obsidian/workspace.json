@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/B/BPDU Guard.md",
+                "file": "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BPDU Guard"
+              "title": "Subnetting with Subnet Mask"
             }
           }
         ]
@@ -195,8 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "767ad9a10f3cd34e",
+  "active": "7601a975270258a0",
   "lastOpenFiles": [
+    "Concepts/S/Subnetting/Subnet Mask into Slash Subnet.md",
+    "Concepts/S/Subnetting/Slash Subnet convert into Subnet Mask.md",
+    "Concepts/S/Subnetting/Private Address Range.md",
+    "Concepts/I/IPv4.md",
+    "Concepts/B/BPDU Guard.md",
     "Concepts/J/Jumbo Frames.md",
     "Concepts/J/Jump Server.md",
     "Concepts/J/Jitter.md",
@@ -211,8 +216,6 @@
     "Concepts/A/A.md",
     "Concepts/S/Subnetting/Total Usable Hosts per Subnet.md",
     "Concepts/S/Subnetting/Total Number of Subnets.md",
-    "Concepts/S/Subnetting/Subnet Mask into Slash Subnet.md",
-    "Concepts/S/Subnetting/Private Address Range.md",
     "Concepts/C/CA.md",
     "Tools/Raspberry PI/VPN Split Tunneling.md",
     "Tools/WireShark.md",
@@ -221,9 +224,6 @@
     "Images/Pasted image 20260607161903.png",
     "Concepts/C/Cable Maps & Diagrams.md",
     "Concepts/C/C2.md",
-    "Concepts/802/802.1w.md",
-    "Concepts/802/802.1Q.md",
-    "Concepts/802/802.11.md",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Images/Pasted image 20260207161447.png",
     "Quiz/eCollege",
