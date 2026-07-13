@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "30e49dca8892fb93",
+        "id": "9203e504ac212f15",
         "type": "tabs",
         "children": [
           {
-            "id": "7601a975270258a0",
+            "id": "263a5fc77e429a45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Subnetting with Subnet Mask"
+              "title": "New tab"
             }
           }
         ]
@@ -195,8 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7601a975270258a0",
+  "active": "767ad9a10f3cd34e",
   "lastOpenFiles": [
+    "Concepts/S/Subnetting/Total Number of Subnets.md",
+    "Concepts/S/Subnetting/Total Usable Hosts per Subnet.md",
+    "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
     "Concepts/S/Subnetting/Subnet Mask into Slash Subnet.md",
     "Concepts/S/Subnetting/Slash Subnet convert into Subnet Mask.md",
     "Concepts/S/Subnetting/Private Address Range.md",
@@ -214,8 +213,6 @@
     "Concepts/A/AAAA.md",
     "Concepts/A/AAA.md",
     "Concepts/A/A.md",
-    "Concepts/S/Subnetting/Total Usable Hosts per Subnet.md",
-    "Concepts/S/Subnetting/Total Number of Subnets.md",
     "Concepts/C/CA.md",
     "Tools/Raspberry PI/VPN Split Tunneling.md",
     "Tools/WireShark.md",
@@ -223,7 +220,6 @@
     "Quiz/eCollege/Quiz 1.md",
     "Images/Pasted image 20260607161903.png",
     "Concepts/C/Cable Maps & Diagrams.md",
-    "Concepts/C/C2.md",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Images/Pasted image 20260207161447.png",
     "Quiz/eCollege",
