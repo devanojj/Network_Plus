@@ -11,10 +11,14 @@
             "id": "7601a975270258a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/B/BPDU Guard.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "BPDU Guard"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#domain/1-0-Networking-Concepts",
+                "query": "tag:#domain/2-0-Network-Implementation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,6 +197,18 @@
   },
   "active": "767ad9a10f3cd34e",
   "lastOpenFiles": [
+    "Concepts/J/Jumbo Frames.md",
+    "Concepts/J/Jump Server.md",
+    "Concepts/J/Jitter.md",
+    "Concepts/A/Active Network Scan.md",
+    "Concepts/A/ACL.md",
+    "Concepts/A/Access switch.md",
+    "Concepts/A/Access Port VLAN.md",
+    "Concepts/A/Access Gateway.md",
+    "Concepts/A/Access Control.md",
+    "Concepts/A/AAAA.md",
+    "Concepts/A/AAA.md",
+    "Concepts/A/A.md",
     "Concepts/S/Subnetting/Total Usable Hosts per Subnet.md",
     "Concepts/S/Subnetting/Total Number of Subnets.md",
     "Concepts/S/Subnetting/Subnet Mask into Slash Subnet.md",
@@ -208,18 +224,6 @@
     "Concepts/802/802.1w.md",
     "Concepts/802/802.1Q.md",
     "Concepts/802/802.11.md",
-    "Concepts/802/802.3.md",
-    "Concepts/802/802.1X.md",
-    "Concepts/802/802.1p.md",
-    "Concepts/S/Subnetting/Slash Subnet convert into Subnet Mask.md",
-    "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
-    "Concepts/R/Routing/Static Routing.md",
-    "Concepts/R/Routing/Types of Routing/BGP.md",
-    "Concepts/R/Routing/Types of Routing/EIGRP.md",
-    "Concepts/R/Routing/Types of Routing/IS-IS.md",
-    "Concepts/R/Routing/Types of Routing/OSPF.md",
-    "Concepts/R/Routing/Types of Routing/RIP.md",
-    "Concepts/R/Routing/General Routing Concepts.md",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Images/Pasted image 20260207161447.png",
     "Quiz/eCollege",
