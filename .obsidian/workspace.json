@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/A/Area Network.md",
+                "file": "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Area Network"
+              "title": "Subnetting with Subnet Mask"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "78dde72b3d052166",
   "lastOpenFiles": [
+    "Concepts/S/Switch.md",
     "Concepts/A/Area Network.md",
     "Concepts/B/Backup.md",
     "Concepts/S/SAN.md",
@@ -222,7 +223,6 @@
     "Concepts/A/Active Network Scan.md",
     "Concepts/A/ACL.md",
     "Concepts/A/Access switch.md",
-    "Concepts/A/Access Port VLAN.md",
     "Images/Pasted image 20260607161903.png",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Images/Pasted image 20260207161447.png",
