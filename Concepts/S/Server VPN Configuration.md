@@ -1,5 +1,4 @@
 ==**Scenario**==
-
 Remote users need a secure link to a web-aware app on a perimeter (DMZ) server. Recommended solution: **SSL VPN** (minimises firewall config changes vs. IPSec). Authentication: certificate-based.
 
 **==Question==**

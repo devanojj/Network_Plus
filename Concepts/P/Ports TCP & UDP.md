@@ -63,3 +63,6 @@ Lightweight Directory Access Protocol over SSL (LDAPS) 636
 Structured Query Language (SQL) Server 1433
 Remote Desktop Protocol (RDP) 3389
 Session Initiation Protocol (SIP) 5060/5061
+
+
+Ports tell us **what services are running on network servers**. Services listen on specific ports (HTTP on 80/443, SSH on 22, RDP on 3389, etc.)

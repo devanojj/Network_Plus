@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/S/Server VPN Configuration.md",
+                "file": "Concepts/802/802.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Server VPN Configuration"
+              "title": "802.3"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "78dde72b3d052166",
   "lastOpenFiles": [
-    "Concepts/S/SSL.md",
+    "Concepts/P/Ports TCP & UDP.md",
     "Concepts/S/Server VPN Configuration.md",
+    "Concepts/S/SSL.md",
     "Concepts/C/CRC.md",
     "Concepts/I/IDS.md",
     "Concepts/S/SIEM.md",
@@ -222,7 +223,6 @@
     "Concepts/S/Subnetting/Private Address Range.md",
     "Concepts/I/IPv4.md",
     "Concepts/B/BPDU Guard.md",
-    "Concepts/J/Jumbo Frames.md",
     "Images/Pasted image 20260607161903.png",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Images/Pasted image 20260207161447.png",
