@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/C/CRC.md",
+                "file": "Concepts/S/Server VPN Configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CRC"
+              "title": "Server VPN Configuration"
             }
           }
         ]
@@ -197,6 +197,9 @@
   },
   "active": "78dde72b3d052166",
   "lastOpenFiles": [
+    "Concepts/S/SSL.md",
+    "Concepts/S/Server VPN Configuration.md",
+    "Concepts/C/CRC.md",
     "Concepts/I/IDS.md",
     "Concepts/S/SIEM.md",
     "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
@@ -220,9 +223,6 @@
     "Concepts/I/IPv4.md",
     "Concepts/B/BPDU Guard.md",
     "Concepts/J/Jumbo Frames.md",
-    "Concepts/J/Jump Server.md",
-    "Concepts/J/Jitter.md",
-    "Concepts/A/Active Network Scan.md",
     "Images/Pasted image 20260607161903.png",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Images/Pasted image 20260207161447.png",
