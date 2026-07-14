@@ -35,9 +35,7 @@ Site-to-Site VPN
 
 
 
-
-
-difference between site-to-site and client-to-site VPNs. Detail the IPsec protocol suite (AH vs. ESP and tunnel vs. transport mode).
+Difference between site-to-site and client-to-site VPNs. Detail the IPsec protocol suite (AH vs. ESP and tunnel vs. transport mode).
 
 
 
