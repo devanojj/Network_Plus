@@ -16,3 +16,10 @@ The last, invisible rule on every firewall or ACL: "If traffic isn't explicitly 
 ==**Geofencing**== 
 Restricting access based on the geographic location (GPS or IP geolocation) of the user.
 
+
+**==ICMP==**
+With firewall rules, it can block [[Ping]] / [[ICMP]] messages 
+
+
+
+
