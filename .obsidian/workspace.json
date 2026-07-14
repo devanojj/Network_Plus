@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
+                "file": "Concepts/C/CRC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subnetting with Subnet Mask"
+              "title": "CRC"
             }
           }
         ]
@@ -197,6 +197,9 @@
   },
   "active": "78dde72b3d052166",
   "lastOpenFiles": [
+    "Concepts/I/IDS.md",
+    "Concepts/S/SIEM.md",
+    "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
     "Concepts/S/Switch.md",
     "Concepts/A/Area Network.md",
     "Concepts/B/Backup.md",
@@ -211,7 +214,6 @@
     "Concepts/R/RSSI.md",
     "Concepts/S/Subnetting/Total Usable Hosts per Subnet.md",
     "Concepts/S/Subnetting/Total Number of Subnets.md",
-    "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
     "Concepts/S/Subnetting/Subnet Mask into Slash Subnet.md",
     "Concepts/S/Subnetting/Slash Subnet convert into Subnet Mask.md",
     "Concepts/S/Subnetting/Private Address Range.md",
@@ -221,8 +223,6 @@
     "Concepts/J/Jump Server.md",
     "Concepts/J/Jitter.md",
     "Concepts/A/Active Network Scan.md",
-    "Concepts/A/ACL.md",
-    "Concepts/A/Access switch.md",
     "Images/Pasted image 20260607161903.png",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Images/Pasted image 20260207161447.png",

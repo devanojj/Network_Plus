@@ -15,4 +15,6 @@ Network-Based (Standard Layer 3/4 Firewalls): These rely on rigid, deterministi
 
 Host-Based: Monitors a single device from the inside. It has deep context regarding exactly which local application or process is generating traffic.
 
+[[SIEM]] collects logs from many different sources including [[IDS]]
+
 
