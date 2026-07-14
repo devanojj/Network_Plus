@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/D/DMZ.md",
+                "file": "Concepts/A/A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DMZ"
+              "title": "A"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#domain/2-0-Network-Implementation",
+                "query": "Nsloo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "f96cfb5d5756e9a7",
@@ -198,6 +197,9 @@
   },
   "active": "78dde72b3d052166",
   "lastOpenFiles": [
+    "Concepts/S/Software for Troubleshooting.md",
+    "Concepts/N/Network Device Commands.md",
+    "Concepts/D/DMZ.md",
     "Concepts/A/Attenuation.md",
     "Concepts/F/Firewall.md",
     "Concepts/R/RSSI.md",
@@ -221,9 +223,6 @@
     "Concepts/A/AAAA.md",
     "Concepts/A/AAA.md",
     "Concepts/A/A.md",
-    "Concepts/C/CA.md",
-    "Tools/Raspberry PI/VPN Split Tunneling.md",
-    "Tools/WireShark.md",
     "Images/Pasted image 20260607161903.png",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Images/Pasted image 20260207161447.png",
