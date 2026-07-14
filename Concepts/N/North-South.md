@@ -1,0 +1,1 @@
+Traffic entering/leaving the network, between internal hosts and the outside world (client → server across the internet). This is what a perimeter firewall protects.

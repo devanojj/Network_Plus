@@ -70,3 +70,14 @@ HTTP / FTP / SMTP
 
 
 
+
+
+| Protocol | Layer       | Why                                                                                   |
+| -------- | ----------- | ------------------------------------------------------------------------------------- |
+| **DHCP** | Application | Assigns IP config; runs over UDP but the protocol itself is Application layer         |
+| **SMTP** | Application | Email transmission                                                                    |
+| **ICMP** | Network     | Operates directly at the Network layer (alongside IP) — no port number, not Transport |
+| **TCP**  | Transport   | Core transport protocol                                                               |
+| **DNS**  | Application | Name resolution                                                                       |
+| **FTP**  | Application | File transfer                                                                         |
+

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/V/VPN.md",
+                "file": "Concepts/D/Duplex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPN"
+              "title": "Duplex"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#domain/1-0-Networking-Concepts",
+                "query": "East Wes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,6 +197,25 @@
   },
   "active": "78dde72b3d052166",
   "lastOpenFiles": [
+    "Concepts/D/DSL.md",
+    "Concepts/D/Duplex.md",
+    "Concepts/N/North-South.md",
+    "Tools/WireShark.md",
+    "Tools/Packet Tracer.md",
+    "Concepts/E/East West.md",
+    "Quiz/ExamCompass/Topic Quiz/Network Design (Done).md",
+    "Quiz/ExamCompass/Topic Quiz/Network Services Troubleshooting (Done).md",
+    "Quiz/ExamCompass/Topic Quiz/Routing Technologies (Done).md",
+    "Concepts/N/Network Design.md",
+    "Concepts/C/Content Filter.md",
+    "Concepts/V/VPN.md",
+    "Concepts/C/Co.md",
+    "Concepts/H/Humidity.md",
+    "Quiz/ExamCompass/Topic Quiz/Physical Installations (Done).md",
+    "Concepts/M/MMF.md",
+    "Images/Pasted image 20260714182801.png",
+    "Concepts/S/SMF.md",
+    "Concepts/O/OSI.md",
     "Concepts/R/RADIUS.md",
     "Concepts/P/Private Address Ranges & Class Ranges.md",
     "Concepts/P/Port forward.md",
@@ -205,24 +224,6 @@
     "Concepts/P/Untitled 1.md",
     "Concepts/P/Untitled.md",
     "Concepts/802/802.3.md",
-    "Concepts/P/Ports TCP & UDP.md",
-    "Concepts/S/Server VPN Configuration.md",
-    "Concepts/S/SSL.md",
-    "Concepts/C/CRC.md",
-    "Concepts/I/IDS.md",
-    "Concepts/S/SIEM.md",
-    "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
-    "Concepts/S/Switch.md",
-    "Concepts/A/Area Network.md",
-    "Concepts/B/Backup.md",
-    "Concepts/S/SAN.md",
-    "Concepts/I/iSCSI.md",
-    "Concepts/A/A.md",
-    "Concepts/S/Software for Troubleshooting.md",
-    "Concepts/N/Network Device Commands.md",
-    "Concepts/D/DMZ.md",
-    "Concepts/A/Attenuation.md",
-    "Concepts/F/Firewall.md",
     "Images/Pasted image 20260607161903.png",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Images/Pasted image 20260207161447.png",

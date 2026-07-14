@@ -38,5 +38,9 @@ Site-to-Site VPN
 Difference between site-to-site and client-to-site VPNs. Detail the IPsec protocol suite (AH vs. ESP and tunnel vs. transport mode).
 
 
+**User/client to a resource** → SSL/TLS VPN (client-to-site).
+**Device (router/firewall) to device** → IPsec. That's this question: "onsite router to platform" is a site-to-site link, not a user connecting.
+
+
 
 
