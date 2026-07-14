@@ -11,7 +11,7 @@
 | LDAP                          | TCP 389      |
 | HTTPS                         | TCP 443      |
 | Syslog                        | UDP 514      |
-| SMTP/TLS                      | TCP 587      |
+| SMTP submission               | TCP 587      |
 | [[LDAPS]]                     | TCP 636      |
 | SQL Server                    | TCP 1433     |
 | RDP                           | TCP 3389     |
@@ -37,6 +37,7 @@
 | SMTPS (Modern)                | TCP 587      |
 | [[POP3]] (Don't need)         | TCP 110      |
 | [[POP3S]] (Don't need)        | TCP 995      |
+| [[SMTP]]                      |              |
 
 
 

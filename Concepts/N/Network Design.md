@@ -7,6 +7,9 @@
 
 
 **Mesh**  every node has a direct connection to every other node; highest redundancy 
+- **Multipathing** — multiple redundant paths exist between any two nodes
+- **Load balancing** — traffic can be split/distributed across those multiple paths
+- **More difficult routing**
 
 **Star** all nodes connect to a central hub/switch; most common LAN topology 
 

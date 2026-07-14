@@ -6,3 +6,9 @@
   - Configure the router interface facing the client with the IP helper command: `ip helper-address <DHCP_Server_IP>`.
   - The router intercepts the client's local broadcast DHCP Discover, wraps it in a **unicast IP packet** (changing the destination to the DHCP server's IP), and routes it to the server.
   - The server replies back to the router via unicast, and the router forwards the response to the client.
+
+
+
+Configure a DHCP relay agent (IP helper-address) on Router 1
+
+![[Pasted image 20260714210606.png|361]]
