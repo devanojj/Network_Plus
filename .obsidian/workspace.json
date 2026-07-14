@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/D/Duplex.md",
+                "file": "Concepts/802/802.11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Duplex"
+              "title": "802.11"
             }
           }
         ]
@@ -197,8 +197,8 @@
   },
   "active": "78dde72b3d052166",
   "lastOpenFiles": [
-    "Concepts/D/DSL.md",
     "Concepts/D/Duplex.md",
+    "Concepts/D/DSL.md",
     "Concepts/N/North-South.md",
     "Tools/WireShark.md",
     "Tools/Packet Tracer.md",
