@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/B/Backup.md",
+                "file": "Concepts/A/Area Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backup"
+              "title": "Area Network"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nsloo",
+                "query": "tag:#domain/1-0-Networking-Concepts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,6 +197,8 @@
   },
   "active": "78dde72b3d052166",
   "lastOpenFiles": [
+    "Concepts/A/Area Network.md",
+    "Concepts/B/Backup.md",
     "Concepts/S/SAN.md",
     "Concepts/I/iSCSI.md",
     "Concepts/A/A.md",
@@ -221,8 +223,6 @@
     "Concepts/A/ACL.md",
     "Concepts/A/Access switch.md",
     "Concepts/A/Access Port VLAN.md",
-    "Concepts/A/Access Gateway.md",
-    "Concepts/A/Access Control.md",
     "Images/Pasted image 20260607161903.png",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Images/Pasted image 20260207161447.png",
