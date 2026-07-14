@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/A/A.md",
+                "file": "Concepts/B/Backup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A"
+              "title": "Backup"
             }
           }
         ]
@@ -197,6 +197,9 @@
   },
   "active": "78dde72b3d052166",
   "lastOpenFiles": [
+    "Concepts/S/SAN.md",
+    "Concepts/I/iSCSI.md",
+    "Concepts/A/A.md",
     "Concepts/S/Software for Troubleshooting.md",
     "Concepts/N/Network Device Commands.md",
     "Concepts/D/DMZ.md",
@@ -220,9 +223,6 @@
     "Concepts/A/Access Port VLAN.md",
     "Concepts/A/Access Gateway.md",
     "Concepts/A/Access Control.md",
-    "Concepts/A/AAAA.md",
-    "Concepts/A/AAA.md",
-    "Concepts/A/A.md",
     "Images/Pasted image 20260607161903.png",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Images/Pasted image 20260207161447.png",

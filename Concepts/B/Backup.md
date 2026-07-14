@@ -1,12 +1,12 @@
 #domain/1-0-Networking-Concepts
 
-*Full Backup* 
+==Full Backup== 
 
-*Incremental Backup*
+==Incremental Backup==
 Backs up only data that has changed since the last backup (any type).
 
-*Differential Backup*
+==Differential Backup==
 Backs up all data changed since the last full backup. Faster restore than incremental.
 
-*Mirror Backup*
+==Mirror Backup==
 Creates an exact copy of the source at the time of the backup (deletions on source also delete on mirror).
