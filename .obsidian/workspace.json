@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/V/VoIP.md",
+                "file": "Concepts/802/802.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VoIP"
+              "title": "802.3"
             }
           }
         ]
@@ -74,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "f96cfb5d5756e9a7",
@@ -199,6 +197,12 @@
   },
   "active": "3b01a27dd21b4158",
   "lastOpenFiles": [
+    "Concepts/802/802.1X.md",
+    "Concepts/E/EAP.md",
+    "Concepts/802/802.1w.md",
+    "Concepts/802/802.1Q.md",
+    "Concepts/802/802.1p.md",
+    "Concepts/V/VoIP.md",
     "Concepts/V/VxLAN.md",
     "Concepts/N/Network Design.md",
     "Concepts/802/802.3.md",
@@ -221,13 +225,7 @@
     "Concepts/C/Content Filter.md",
     "Concepts/V/VPN.md",
     "Concepts/C/Co.md",
-    "Concepts/H/Humidity.md",
-    "Quiz/ExamCompass/Topic Quiz/Physical Installations (Done).md",
-    "Concepts/M/MMF.md",
     "Images/Pasted image 20260714182801.png",
-    "Concepts/S/SMF.md",
-    "Concepts/O/OSI.md",
-    "Concepts/R/RADIUS.md",
     "Images/Pasted image 20260607161903.png",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "Images/Pasted image 20260207161447.png",
