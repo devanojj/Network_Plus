@@ -12,3 +12,5 @@ Used for long haul, WAN
 
 OS1/OS2 classification 
 
+
+tiny core, laser, long distance and more expensive, single mode fibre, yellow jacket

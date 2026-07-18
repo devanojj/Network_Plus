@@ -1,6 +1,6 @@
 #domain/1-0-Networking-Concepts
 
-Multi Mode Fibre 
+**Multi Mode Fibre** 
 
 Larger core, multiple light paths, cheaper but shorter distances 
 2km, LED, data centres
@@ -12,3 +12,5 @@ mighty not needed
 **OM3/OM4** — these are multimode fiber classifications (OM = "optical multimode").
 (50 or 62.5 microns)
 multimode typically runs 850nm or 1300nm with LED/VCSEL sources over short distances)
+
+wider core, LED/VCSEL, shorter distance and cheaper, multimode fibre, orange jacket
