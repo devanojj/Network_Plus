@@ -1,24 +1,23 @@
 #domain/2-0-Network-Implementation
 
-*WPS*
-Wi-Fi Protected Setup
+==WPS==
+**Wi-Fi Protected Setup**
 Simplifies configuration of new wireless networks by allowing non-technical users to easily configure network security settings, by presses a button
 
-*WEP:*
-Wired Equivalent Privacy
+==WEP:==
+**Wired Equivalent Privacy**
 
-*WPA:*
-Wi-Fi Protected Access
+==WPA:==
+**Wi-Fi Protected Access**
 
-*PSK:*
-Pre-Shared Key used in WPA & WPA2
+==PSK:==
+**Pre-Shared Key** used in WPA & WPA2
 
-*WPA3-SAE:*
-Simultaneous Authentication of Equals, used in WPA3-Personal, authentication method. Strong method of authentication.
+==WPA3-SAE:==
+**Simultaneous Authentication of Equals**, used in WPA3-Personal, authentication method. Strong method of authentication.
 
 
-
-WPA, WPS & WEP are security risk
+*WPA, WPS & WEP are security risk*
 
 | Protocol                            | Security Level                    | Key Details                                                                                                                                                                                                  |
 | :---------------------------------- | :-------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

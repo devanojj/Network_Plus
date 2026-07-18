@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/W/Wireless Authenication.md",
+                "file": "Concepts/802/802.11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wireless Authenication"
+              "title": "802.11"
             }
           }
         ],
@@ -215,12 +215,14 @@
   },
   "active": "84c15103d1da4a5f",
   "lastOpenFiles": [
+    "Concepts/C/CSMA-CA.md",
+    "Concepts/802/802.11.md",
+    "Concepts/W/Wireless Modes.md",
+    "Concepts/W/Wireless Authenication.md",
     "Concepts/W/Wi-Fi Direct.md",
     "Concepts/W/WAF.md",
     "Concepts/W/WAP Identifier.md",
     "Concepts/W/Whaling.md",
-    "Concepts/W/Wireless Authenication.md",
-    "Concepts/W/Wireless Modes.md",
     "Concepts/W/Wireless Troubleshooting.md",
     "Concepts/W/Wireshark.md",
     "Concepts/T/Troubleshooting.md",
@@ -239,8 +241,6 @@
     "Concepts/802/802.1p.md",
     "Concepts/V/VoIP.md",
     "Concepts/V/VxLAN.md",
-    "Concepts/N/Network Design.md",
-    "Concepts/D/DHCP Relay & IP Helper.md",
     "Images/Pasted image 20260714210606.png",
     "Images/Pasted image 20260714210559.png",
     "Images/Pasted image 20260714182801.png",
