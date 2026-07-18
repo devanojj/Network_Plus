@@ -1,6 +1,6 @@
 #domain/2-0-Network-Implementation
 
-*WPS:*
+*WPS*
 Wi-Fi Protected Setup
 Simplifies configuration of new wireless networks by allowing non-technical users to easily configure network security settings, by presses a button
 
