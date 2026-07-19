@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/802/802.11.md",
+                "file": "Concepts/A/A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "802.11"
+              "title": "A"
             }
           }
         ],
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "right": {
     "id": "f96cfb5d5756e9a7",
@@ -215,8 +214,8 @@
   },
   "active": "84c15103d1da4a5f",
   "lastOpenFiles": [
-    "Concepts/C/CSMA-CA.md",
     "Concepts/802/802.11.md",
+    "Concepts/C/CSMA-CA.md",
     "Concepts/W/Wireless Modes.md",
     "Concepts/W/Wireless Authenication.md",
     "Concepts/W/Wi-Fi Direct.md",
