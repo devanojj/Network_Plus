@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/A/Access Gateway.md",
+                "file": "Concepts/A/Access switch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Access Gateway"
+              "title": "Access switch"
             }
           },
           {
@@ -211,6 +211,8 @@
   },
   "active": "84c15103d1da4a5f",
   "lastOpenFiles": [
+    "Concepts/A/Access Port VLAN.md",
+    "Concepts/A/Access Gateway.md",
     "Concepts/A/Access Control.md",
     "Concepts/A/A.md",
     "Concepts/A/AAAA.md",
@@ -236,8 +238,6 @@
     "Concepts/A/Antenna.md",
     "Quiz/eCollege/Quiz 2.md",
     "Quiz/ExamCompass/Topic Quiz/Wireless Networking (Done).md",
-    "Concepts/S/Signal Degradation.md",
-    "Concepts/C/CSMA-CA.md",
     "Images/Pasted image 20260714210606.png",
     "Images/Pasted image 20260714210559.png",
     "Images/Pasted image 20260714182801.png",
