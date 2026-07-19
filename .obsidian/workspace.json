@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
+                "file": "Concepts/802/802.1p.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subnetting with Subnet Mask"
+              "title": "802.1p"
             }
           }
         ]
@@ -197,6 +197,8 @@
   },
   "active": "84c15103d1da4a5f",
   "lastOpenFiles": [
+    "all_notes.txt",
+    "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
     "Concepts/S/Subnetting/Subnet Mask into Slash Subnet.md",
     "Concepts/S/Subnetting/Slash Subnet convert into Subnet Mask.md",
     "Concepts/S/Subnetting/Private Address Range.md",
@@ -221,8 +223,6 @@
     "Concepts/W/Wi-Fi Direct.md",
     "Concepts/W/WAF.md",
     "Concepts/W/WAP Identifier.md",
-    "Concepts/W/Whaling.md",
-    "Concepts/W/Wireless Troubleshooting.md",
     "Images/Pasted image 20260714210606.png",
     "Images/Pasted image 20260714210559.png",
     "Images/Pasted image 20260714182801.png",
