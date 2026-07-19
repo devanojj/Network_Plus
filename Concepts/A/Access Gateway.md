@@ -3,3 +3,5 @@
 - Provides user access to network resources
 - Not a hardened administrative intermediary
 - Commonly used for end-user remote access
+- [[VPN]]
+- [[Jump Server]] is hardened vs access gate is not

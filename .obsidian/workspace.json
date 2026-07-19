@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/802/802.11.md",
+                "file": "Concepts/A/Access Gateway.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "802.11"
+              "title": "Access Gateway"
             }
           },
           {
@@ -211,8 +211,12 @@
   },
   "active": "84c15103d1da4a5f",
   "lastOpenFiles": [
-    "Concepts/M/MU-MIMO.md",
+    "Concepts/A/Access Control.md",
+    "Concepts/A/A.md",
+    "Concepts/A/AAAA.md",
+    "Concepts/A/AAA.md",
     "Concepts/802/802.11.md",
+    "Concepts/M/MU-MIMO.md",
     "Concepts/802/802.3.md",
     "Concepts/802/802.1X.md",
     "Concepts/802/802.1w.md",
@@ -233,11 +237,7 @@
     "Quiz/eCollege/Quiz 2.md",
     "Quiz/ExamCompass/Topic Quiz/Wireless Networking (Done).md",
     "Concepts/S/Signal Degradation.md",
-    "Concepts/A/A.md",
     "Concepts/C/CSMA-CA.md",
-    "Concepts/W/Wireless Modes.md",
-    "Concepts/W/Wireless Authenication.md",
-    "Concepts/W/Wi-Fi Direct.md",
     "Images/Pasted image 20260714210606.png",
     "Images/Pasted image 20260714210559.png",
     "Images/Pasted image 20260714182801.png",
