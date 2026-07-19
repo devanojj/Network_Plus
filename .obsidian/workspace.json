@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/802/802.1p.md",
+                "file": "Concepts/802/802.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "802.1p"
+              "title": "802.3"
             }
           }
         ]
@@ -197,6 +197,10 @@
   },
   "active": "84c15103d1da4a5f",
   "lastOpenFiles": [
+    "Concepts/802/802.1X.md",
+    "Concepts/802/802.1w.md",
+    "Concepts/802/802.1p.md",
+    "Concepts/802/802.1Q.md",
     "all_notes.txt",
     "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
     "Concepts/S/Subnetting/Subnet Mask into Slash Subnet.md",
@@ -209,8 +213,6 @@
     "Concepts/E/EAPoL.md",
     "Concepts/E/EAP.md",
     "Concepts/B/BPDU.md",
-    "Concepts/802/802.1w.md",
-    "Concepts/802/802.1Q.md",
     "Concepts/A/Antenna.md",
     "Quiz/eCollege/Quiz 2.md",
     "Quiz/ExamCompass/Topic Quiz/Wireless Networking (Done).md",
@@ -222,7 +224,6 @@
     "Concepts/W/Wireless Authenication.md",
     "Concepts/W/Wi-Fi Direct.md",
     "Concepts/W/WAF.md",
-    "Concepts/W/WAP Identifier.md",
     "Images/Pasted image 20260714210606.png",
     "Images/Pasted image 20260714210559.png",
     "Images/Pasted image 20260714182801.png",
@@ -243,7 +244,6 @@
     "Images",
     "Images/Pasted image 20260609135348.png",
     "Images/Pasted image 20260609134754.png",
-    "Concepts/Q",
     "Untitled.canvas",
     "Plan/Study Plan.canvas"
   ]
