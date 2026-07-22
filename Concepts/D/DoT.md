@@ -1,6 +1,6 @@
 #domain/3-0-Network-Operations
 
-**[[DNS]] over [[TLS]]**
+==**[[DNS]] over [[TLS]]**==
 
 
 Encrypts DNS queries using a **dedicated TLS connection** (port 853)

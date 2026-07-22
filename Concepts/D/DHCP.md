@@ -1,6 +1,6 @@
 #domain/3-0-Network-Operations
 
-**Dynamic Host Configuration Protocol** 
+==**Dynamic Host Configuration Protocol**== 
 
 Automates the assignment of IP addresses, subnet masks, default gateways, DNS servers, and other network parameters to hosts.
 
@@ -10,7 +10,7 @@ Client listens on **UDP Port 68**.
 
 
 *DHCP can automatically provide:*
-- IP addres
+- IP address
 - Subnet mask
 - Default gateway (Option 3)
 - DNS server addresses (Option 6)

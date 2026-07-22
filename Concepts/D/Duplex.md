@@ -25,20 +25,20 @@ Status and Counters - Port Status
 
 ### Key column meanings
 
-|Column|What it tells you|When it's the answer|
-|---|---|---|
-|**Status**|Up/Down — physical + protocol link state|Question is "no connectivity" not "slow"|
-|**Mode**|Speed + Duplex (e.g. `100FDx`, `1000FDx`, `100HDx`)|Question mentions slow transfer rates, retransmissions, collisions|
-|**MDI Mode**|MDI (straight) vs MDIX (crossover) — auto-negotiated on modern switches|Rare; usually not the fault on modern gear|
-|**Flow Ctrl**|Pause frame negotiation|Rarely tested as the misconfiguration|
-|**VLAN Inf**|VLAN assignment for that port|Question specifies a VLAN — use this to filter ports first|
+| Column        | What it tells you                                                       | When it's the answer                                               |
+| ------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Status**    | Up/Down — physical + protocol link state                                | Question is "no connectivity" not "slow"                           |
+| **Mode**      | Speed + Duplex (e.g. `100FDx`, `1000FDx`, `100HDx`)                     | Question mentions slow transfer rates, retransmissions, collisions |
+| **MDI Mode**  | MDI (straight) vs MDIX (crossover) — auto-negotiated on modern switches | Rare; usually not the fault on modern gear                         |
+| **Flow Ctrl** | Pause frame negotiation                                                 | Rarely tested as the misconfiguration                              |
+| **VLAN Inf**  | VLAN assignment for that port                                           | Question specifies a VLAN — use this to filter ports first         |
 
 ### Symptom → Cause quick match
 
-|Symptom in question|Likely column/cause|
-|---|---|
-|"Slow transfer rates," "high latency on one link," "retransmissions"|**Duplex mismatch** (one side FDx, other HDx)|
-|"No connectivity," "port won't come up"|**Status: Down**|
-|"Wrong devices can see each other" / "user can't reach server"|**VLAN Inf misassignment**|
-|"Excessive collisions" (legacy Ethernet framing)|**Duplex mismatch**|
-|"Port shut down unexpectedly," "unauthorized device"|**Intrusion Alert / port security**|
+| Symptom in question                                                  | Likely column/cause                           |
+| -------------------------------------------------------------------- | --------------------------------------------- |
+| "Slow transfer rates," "high latency on one link," "retransmissions" | **Duplex mismatch** (one side FDx, other HDx) |
+| "No connectivity," "port won't come up"                              | **Status: Down**                              |
+| "Wrong devices can see each other" / "user can't reach server"       | **VLAN Inf mis-assignment**                   |
+| "Excessive collisions" (legacy Ethernet framing)                     | **Duplex mismatch**                           |
+| "Port shut down unexpectedly," "unauthorized device"                 | **Intrusion Alert / port security**           |

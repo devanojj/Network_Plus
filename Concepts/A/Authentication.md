@@ -2,5 +2,6 @@
 
 EAP-MD5
 PEAP
-EAP-ABC
 EAP-FAST
+
+*Not needed*

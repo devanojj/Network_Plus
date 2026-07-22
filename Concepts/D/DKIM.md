@@ -1,5 +1,6 @@
 #domain/1-0-Networking-Concepts
+==**DomainKeys Identified Mail**==
 
-**DomainKeys Identified Mail**
+Used for email authentication  
 
-Email authentication - not needed 
+*Not needed* 

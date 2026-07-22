@@ -1,10 +1,10 @@
 #domain/1-0-Networking-Concepts
 
-Part of Wi-Fi 802.11
+Part of Wi-Fi [[802.11]]
 Avoid collisions 
 Listen before talk access method 
 
-**Carrier sense multiple access with collision avoidance**
+==**Carrier Sense Multiple Access with Collision Avoidance**==
 
 Tries to avoid collisions by listening before transmitting, uses random backoff timers and may use request to send to reserve the channel. 
 

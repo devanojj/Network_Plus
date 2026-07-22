@@ -1,11 +1,11 @@
 #domain/1-0-Networking-Concepts
 
-*Lightweight AP:*
+**==Lightweight AP==**
 - LAN Controller
 - Multiple AP
 - Easily expandable
 
-*Autonomous AP:*
+**==Autonomous AP==**
 - Without Controller
 - Smaller networks
 - Individually managed 

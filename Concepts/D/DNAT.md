@@ -1,6 +1,6 @@
 #domain/2-0-Network-Implementation
+==**Destination Network Address Translation**==
 
-Destination network address translation
 Let internet users reach a server sitting in the [[DMZ]]
 
 Server has a private IP and the internet user has a public IP

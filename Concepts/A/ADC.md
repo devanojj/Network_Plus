@@ -7,6 +7,7 @@ A network appliance (often acting as a Layer 7 proxy or advanced load balancer) 
 The ADC is the device that physically hosts the virtual IP. When a user requests a web page, their traffic hits the VIP on the gateway. The gateway inspects the traffic, applies security/filtering policies, and balances the load across the internal web servers
 
 Used for more inbound traffic
+Protects and accelerates **inbound** traffic coming _to_ your hosted web applications.
 
 While [[SWG]] is for outbound 
 [[Cloud Gateway]] is for connecting on premises network to a [[VPC]]

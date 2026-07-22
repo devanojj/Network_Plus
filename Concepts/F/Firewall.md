@@ -12,10 +12,8 @@ Stateful firewalls remember the context of active connections (if traffic goes o
 ==**Implicit Deny**==
 The last, invisible rule on every firewall or ACL: "If traffic isn't explicitly permitted above, drop it."
 
-
 ==**Geofencing**== 
 Restricting access based on the geographic location (GPS or IP geolocation) of the user.
-
 
 **==ICMP==**
 With firewall rules, it can block [[Ping]] / [[ICMP]] messages 

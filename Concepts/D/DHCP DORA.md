@@ -1,8 +1,5 @@
 #domain/3-0-Network-Operations
 
-
-## **The [[DHCP]] Lease Process (DORA)**
-
 When a client connects to a network, it goes through a four-step process to obtain an IP address:
 
 ```mermaid
@@ -17,16 +14,19 @@ sequenceDiagram
     Note over Client: IP Assigned & Leased
 ```
 
-1. **Discover (D)**: The client broadcasts a message (`255.255.255.255`) searching for available DHCP servers on the local subnet.
+ ==**Discover (D)**:== The client broadcasts a message (`255.255.255.255`) searching for available DHCP servers on the local subnet.
    - **Source IP**: `0.0.0.0`
    - **Destination IP**: `255.255.255.255`
-2. **Offer (O)**: Any DHCP server that receives the Discover message responds with an available IP address, subnet mask, lease duration, and the server's own IP address.
+   
+==**Offer (O)**:== Any DHCP server that receives the Discover message responds with an available IP address, subnet mask, lease duration, and the server's own IP address.
    - **Source IP**: DHCP Server IP
    - **Destination IP**: Broadcast (`255.255.255.255`) or unicast to client MAC address.
-3. **Request (R)**: The client broadcasts a request message to accept the offered IP address. Broadcasting this allows other DHCP servers that may have sent offers to release their reserved IPs back to their pools.
+   
+==**Request (R)**==: The client broadcasts a request message to accept the offered IP address. Broadcasting this allows other DHCP servers that may have sent offers to release their reserved IPs back to their pools.
    - **Source IP**: `0.0.0.0`
    - **Destination IP**: `255.255.255.255`
-4. **Acknowledge (A / DHCP ACK)**: The server confirms the IP lease, sending the final network configuration parameters (default gateway, DNS servers, etc.) to the client.
+
+==**Acknowledge (A / DHCP ACK)**:== The server confirms the IP lease, sending the final network configuration parameters (default gateway, DNS servers, etc.) to the client.
    - **Source IP**: DHCP Server IP
    - **Destination IP**: Broadcast or unicast.
 
