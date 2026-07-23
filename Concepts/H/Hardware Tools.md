@@ -1,6 +1,9 @@
 #domain/1-0-Networking-Concepts
 
 *   **Toner (Tone Generator & Probe):** Used to trace a specific wire through a chaotic bundle in a server room. One piece puts an audio tone on the wire, the wand makes a noise when it gets near that specific wire.
+
 *   **Cable Tester:** Plugs into both ends of a copper cable to verify continuity, correct pinouts (no crossed wires), and that all 8 pins are connected.
+
 *   **Visual Fault Locator (VFL):** A very bright laser you shine down a fiber optic cable. If the cable is broken or bent too sharply, the red light will visibly leak out of the cable jacket.
+
 *   **Network Tap:** A physical device inserted inline on a network link that copies all traffic to a monitoring port. Better than Port Mirroring (SPAN) because it cannot drop packets if the switch CPU gets too busy.

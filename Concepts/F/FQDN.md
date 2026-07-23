@@ -1,6 +1,6 @@
 #domain/1-0-Networking-Concepts
 
-*Fully Qualified Domain Name*
+**==Fully Qualified Domain Name==**
 
 Breakdown:
 - www → Hostname

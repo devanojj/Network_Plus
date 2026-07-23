@@ -1,6 +1,7 @@
 #domain/4-0-Network-Security
 
-Encapsulating Security Payload
+**==Encapsulating Security Payload==**
+
 Provides authentication, integrity and encryption
 
 Transport Mode: Encrypts and protects the payload, but leaves the original IP header intact
