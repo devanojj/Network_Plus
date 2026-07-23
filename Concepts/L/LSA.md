@@ -1,3 +1,5 @@
 #domain/2-0-Network-Implementation
+==**Link State Advertisement**== 
 
-Link State Advertisement used by [[OSPF]] routing protocol to share topology information.
+Used by [[OSPF]] routing protocol to share topology information.
+
