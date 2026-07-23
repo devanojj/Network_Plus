@@ -2,6 +2,8 @@
 
 **==Compress IPv6==** 
 Remove any leading zeros then make compress only one group of zeros to ::
+`2001:0db8:0000:0000:0000:ff00:0042:0001` 
+`2001:db8::ff00:42:1`
 
 **==[[Tunneling]] 6to4==** 
 IPv6 packets within a IPv4 header

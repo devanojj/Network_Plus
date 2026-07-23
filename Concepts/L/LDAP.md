@@ -1,6 +1,5 @@
 #domain/1-0-Networking-Concepts
-
-**Local Directory Access Protocol**
+==**Local Directory Access Protocol**==
 
 It's a protocol for querying and modifying a directory service (like Active Directory). 
 
