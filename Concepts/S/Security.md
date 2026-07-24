@@ -8,10 +8,10 @@
 [[RC4]]
 [[ESP]]
 
-*Least Privilege*
+==**Least Privilege**==
 User or system should only have the least amount of access it needs.
 
-*DES Data Encryption Standard*
+**==DES Data Encryption Standard==**
 Encryption algorithm
 
 | Question      | Answer                                                          |
@@ -21,6 +21,5 @@ Encryption algorithm
 | Exploit       | Technique or tool used to take advantage of a system's weakness |
 | Threat        | Potential danger that could compromise the security             |
 
-
-*Port Security*
+**==Port Security==**
 A switch feature that limits the number of MAC addresses that can be learned on a single port. You can specify which MAC addresses are allowed. If an unauthorised MAC is seen, the port can be shut down.

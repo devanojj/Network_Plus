@@ -1,6 +1,6 @@
 #domain/1-0-Networking-Concepts
 
-Single Mode Fibre
+**==Single Mode Fibre==**
 
 Smaller core and supports longer distances with less signal attenuation 
 Laser, 100km+, higher cost than [[MMF]]
@@ -12,5 +12,4 @@ Used for long haul, WAN
 
 OS1/OS2 classification 
 
-
-tiny core, laser, long distance and more expensive, single mode fibre, yellow jacket
+Tiny core, laser, long distance and more expensive, single mode fibre, yellow jacket

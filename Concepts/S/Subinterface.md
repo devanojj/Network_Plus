@@ -4,9 +4,7 @@ A sub-interface is a logical division of a physical router interface, allowing
 
 More than 1 IP to a single interface
 
-
-Router-on-a-Stick:
-
+Used in "Router on a Stick" setups. One physical router port is divided into multiple logical subinterfaces (e.g., `GigabitEthernet0/0.10` for VLAN 10, `0/0.20` for VLAN 20) to route traffic between different VLANs.
 
 
 

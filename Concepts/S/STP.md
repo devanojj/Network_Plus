@@ -1,6 +1,6 @@
 #domain/2-0-Network-Implementation
 
-**Spanning tree protocol** 
+==**Spanning Tree Protocol**== 
 Layer 2 protocol to prevent loops in a switched network
 Calculates whenever a port changes 
 802.1D

@@ -1,10 +1,13 @@
 #domain/2-0-Network-Implementation
 
-**Port-side exhaust -** flow of hot air within the equipment rack
+==**Port-side exhaust**== 
+Flow of hot air within the equipment rack
 
-**Port-side intake -** design in which a network equipment's ports face the cold aisle enabling direct and unobstructed flow of cool air into the equipment 
+==**Port-side intake**== 
+Design in which a network equipment's ports face the cold aisle enabling direct and unobstructed flow of cool air into the equipment 
 
-**Front-to-back cooling -**   cool air enters the front of the device, hot air exits the back. Standard rack airflow design.
+==**Front-to-back cooling**== 
+Cool air enters the front of the device, hot air exits the back. Standard rack airflow design.
 
 ==**Power Supply Types**==
 Uninterruptible Power Supply - Emergency power during outages

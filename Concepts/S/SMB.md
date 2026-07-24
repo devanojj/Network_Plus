@@ -1,6 +1,6 @@
 #domain/1-0-Networking-Concepts
 
-*Server message block*
+==**Server message block**==
 - Network sharing protocol to access files, folder, printers, remote servers
 - Application Layer 7
 - Port TCP 445 : modern SMB 

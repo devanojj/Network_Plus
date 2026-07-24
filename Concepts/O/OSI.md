@@ -1,6 +1,6 @@
 #domain/1-0-Networking-Concepts
 
-*Open systems interconnection*
+**==Open Systems Interconnection==**
 
 #### OSI Layer 1 - Physical - Bit 
 Hub 
@@ -15,8 +15,6 @@ Switch
 Network Adapter 
 NIC
 ARP
-
-
 
 
 #### OSI Layer 3 - Network - Packet 
@@ -44,8 +42,7 @@ Issues where data packets are being delivered out of sequence and some packets a
 - API session management
 
 
-
-#### Layer 6 - Presentation Layer
+#### Layer 6 - Presentation Layer - Data 
 **Purpose:** Translates, formats, encrypts, and compresses data so the Application Layer can use it.
 
 - Data encryption and decryption
@@ -63,14 +60,9 @@ Issues where data packets are being delivered out of sequence and some packets a
 - ASCII and Unicode character translation
 
 
-
-#### Layer 7 Application Layer
+#### Layer 7 Application Layer - Data 
 
 HTTP / FTP / SMTP
-
-
-
-
 
 | Protocol | Layer       | Why                                                                                   |
 | -------- | ----------- | ------------------------------------------------------------------------------------- |

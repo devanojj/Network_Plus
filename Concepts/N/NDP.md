@@ -1,6 +1,5 @@
 #domain/1-0-Networking-Concepts
-
-**Neighbour Discovery Protocol**
+==**Neighbour Discovery Protocol**==
 
 Replaces ARP in [[IPv6]].
 Uses ICMPv6 messages (Router Solicitation/Advertisement, Neighbour Solicitation/Advertisement) to find MAC addresses and routers on the local network.

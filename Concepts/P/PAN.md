@@ -1,8 +1,6 @@
 #domain/1-0-Networking-Concepts
-
-Personal area network
+==**Personal Area Network**==
 a small network used to connect devices around a single person, typically within a range of a few meters.
-
 
 #### Common Technologies
 - **Bluetooth** (most common Network+ example)

@@ -1,6 +1,6 @@
 #domain/2-0-Network-Implementation
 
-*Open Shortest Path First*
+**==Open Shortest Path First==**
 - Link State
 - Cost (based on bandwidth)
 - AD = 110

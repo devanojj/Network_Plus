@@ -1,6 +1,6 @@
 #domain/1-0-Networking-Concepts
 
-Switch Port Analyser (Port mirroring)
+**==Switch Port Analyser (Port mirroring)==**
 
 Copies traffic from one or more source ports (or VLANs) to a dedicated destination port.
 

@@ -1,6 +1,6 @@
 #domain/1-0-Networking-Concepts
 
-Network security list 
+**==Network security list==** 
 
 Provides [[Firewall]] capabilities
 Gives security at subnet level less granular than [[NSG]]
