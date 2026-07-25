@@ -7,3 +7,5 @@ IPsec transport mode only protects the payload between the original two endpoint
 [[ESP]] 
 [[AH]]
 [[IKE]] / [[ISAKMP]]
+
+Works at layer 3 to provide encryption 
