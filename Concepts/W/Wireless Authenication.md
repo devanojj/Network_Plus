@@ -4,14 +4,13 @@
 **Wi-Fi Protected Setup**
 Simplifies configuration of new wireless networks by allowing non-technical users to easily configure network security settings, by presses a button
 
-==WEP:==
+==WEP==
 **Wired Equivalent Privacy**
 
-==WPA:==
+==WPA==
 **Wi-Fi Protected Access**
 
-==PSK:==
-**Pre-Shared Key** used in WPA & WPA2
+==[[PSK]]==
 
 ==WPA3-SAE:==
 **Simultaneous Authentication of Equals**, used in WPA3-Personal, authentication method. Strong method of authentication.

@@ -1,6 +1,6 @@
 #domain/1-0-Networking-Concepts
+==**Web application firewall**==
 
-**Web application firewall**
 Used to stop cross-site scripting ([[XSS]]) and SQL injection, by inspecting HTTPS traffic
 Layer 7 
 

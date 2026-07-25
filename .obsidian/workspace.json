@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/V/VPN.md",
+                "file": "Concepts/S/Switch Commands (Go back over).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPN"
+              "title": "Switch Commands (Go back over)"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#domain/1-0-Networking-Concepts",
+                "query": "show power",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,32 +212,32 @@
   },
   "active": "52bb53317b5f880b",
   "lastOpenFiles": [
-    "Concepts/I/IKE.md",
+    "Concepts/N/Network Device Commands.md",
     "Concepts/V/VPN.md",
+    "Concepts/Z/ZTA.md",
+    "Concepts/X/XSS.md",
+    "Concepts/W/Wireshark.md",
+    "Concepts/S/SPAN.md",
+    "Concepts/W/Wireless Troubleshooting.md",
+    "Concepts/W/Wireless Modes.md",
+    "Concepts/W/Wireless Authenication.md",
+    "Concepts/P/PSK.md",
+    "Concepts/W/Wi-Fi Direct.md",
+    "Concepts/W/Whaling.md",
+    "Concepts/W/WAP Identifier.md",
+    "Concepts/B/BSSID.md",
+    "Concepts/B/BSS.md",
+    "Concepts/E/ESS.md",
+    "Concepts/W/WAF.md",
+    "Concepts/V/VxLAN.md",
+    "Concepts/V/VNI.md",
+    "Concepts/V/VTP.md",
+    "Concepts/V/VRRP.md",
+    "Concepts/I/IKE.md",
     "Concepts/E/ESP.md",
     "Concepts/A/AH.md",
     "Concepts/V/VoIP.md",
     "Concepts/V/VPC.md",
-    "Concepts/V/VRRP.md",
-    "Concepts/V/VTP.md",
-    "Concepts/V/VxLAN.md",
-    "Concepts/V/VNI.md",
-    "Concepts/V/VNC.md",
-    "Concepts/V/VM.md",
-    "Concepts/V/VLSM.md",
-    "Concepts/V/VLAN Pruning.md",
-    "Concepts/V/VLAN Database.md",
-    "Concepts/V/VLAN.md",
-    "Concepts/V/Virtualisation.md",
-    "Concepts/V/Virtual IP.md",
-    "Concepts/V/VFL.md",
-    "Concepts/V/Validation Test.md",
-    "Concepts/V/Validation tests.md",
-    "Concepts/U/UTM.md",
-    "Concepts/U/UPC.md",
-    "Concepts/A/APC.md",
-    "Concepts/U/UDP.md",
-    "Concepts/T/Twinax.md",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "all_notes.txt",
     "Images/Pasted image 20260714210606.png",

@@ -29,10 +29,14 @@
 **Full tunnel** — ALL traffic from the client goes through the VPN, including general internet browsing
 **Split tunnel** — only traffic destined for the corporate network goes through the VPN, everything else goes directly to the internet. More efficient but slightly less secure
 
-Difference between site-to-site and client-to-site VPNs. Detail the IPsec protocol suite (AH vs. ESP and tunnel vs. transport mode).
+**==Signal phrases==**
+- "Two office locations permanently connected via routers/firewalls" → **site-to-site VPN**
+- "Remote employee connects laptop to corporate network" → **client-to-site VPN**
+- "Browser-based VPN access, no software install" → **clientless**
+- "All traffic routes through VPN, including internet-bound" → **full tunnel**
+- "Only corporate traffic routes through VPN, rest goes direct" → **split tunnel**
 
-**User/client to a resource** → SSL/TLS VPN (client-to-site).
-**Device (router/firewall) to device** → IPsec. That's this question: "onsite router to platform" is a site-to-site link, not a user connecting.
+
 
 
 
