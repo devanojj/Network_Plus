@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/S/Switch Commands (Go back over).md",
+                "file": "Concepts/S/SDN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Switch Commands (Go back over)"
+              "title": "SDN"
             }
           },
           {
@@ -88,12 +88,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 355.50390243530273
+    "width": 355.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "f96cfb5d5756e9a7",
@@ -212,6 +212,12 @@
   },
   "active": "52bb53317b5f880b",
   "lastOpenFiles": [
+    "Concepts/D/DNS TXT.md",
+    "Concepts/U/UPC.md",
+    "Concepts/A/APC.md",
+    "Concepts/M/MMF.md",
+    "Concepts/O/OFDMA.md",
+    "Concepts/S/Switch Commands (Go back over).md",
     "Concepts/N/Network Device Commands.md",
     "Concepts/V/VPN.md",
     "Concepts/Z/ZTA.md",
@@ -232,12 +238,6 @@
     "Concepts/V/VxLAN.md",
     "Concepts/V/VNI.md",
     "Concepts/V/VTP.md",
-    "Concepts/V/VRRP.md",
-    "Concepts/I/IKE.md",
-    "Concepts/E/ESP.md",
-    "Concepts/A/AH.md",
-    "Concepts/V/VoIP.md",
-    "Concepts/V/VPC.md",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "all_notes.txt",
     "Images/Pasted image 20260714210606.png",

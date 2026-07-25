@@ -2,12 +2,17 @@
 
 ==**Multi Mode Fibre**== 
 
-Larger core, multiple light paths, cheaper but shorter distances 
-2km, LED, data centres
-Cheaper than [[SMF]]
+- Larger core, multiple light paths, cheaper but shorter distances 
+- 2km, LED, data centres
+- Cheaper than [[SMF]]
+- Orange jacket
 
 
-Might not needed 
+
+
+
+
+*Might not needed below*
 
 **OM3/OM4** — these are multimode fiber classifications (OM = "optical multimode").
 (50 or 62.5 microns)
