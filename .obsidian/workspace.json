@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/I/IPSec.md",
+                "file": "Concepts/R/Routing/Types of Routing/OSPF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPSec"
+              "title": "OSPF"
             }
           },
           {
@@ -211,6 +211,7 @@
   },
   "active": "52bb53317b5f880b",
   "lastOpenFiles": [
+    "Concepts/I/IPSec.md",
     "Concepts/Q/QSFP-DD.md",
     "Concepts/S/SVI.md",
     "Concepts/S/Subinterface.md",
@@ -236,7 +237,6 @@
     "Concepts/W/Wi-Fi Direct.md",
     "Concepts/W/Whaling.md",
     "Concepts/W/WAP Identifier.md",
-    "Concepts/B/BSSID.md",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "all_notes.txt",
     "Images/Pasted image 20260714210606.png",
