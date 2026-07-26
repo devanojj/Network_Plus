@@ -8,3 +8,6 @@
 - eBGP = between different autonomous systems | iBGP = within the same AS
 - Administrative Distance (AD): **eBGP = 20** (highly trusted), **iBGP = 200** (untrusted/internal backup)
 - Path selection based on fewest AS hops
+
+
+*Local Preference can be used to influence outbound traffic*
