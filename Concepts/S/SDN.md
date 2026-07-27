@@ -19,7 +19,12 @@
 | **Application Plane** | Doesn't exist                                                                 | Sits above control plane; business apps/services request network behavior via APIs (e.g., "give me low-latency path"). |
 
 
+The **northbound interface (NBI)** is used by the SDN controller to communicate with applications and management tools.
 
+Quick recap of the two:
+
+- **Northbound interface** — sits between the controller and the applications/orchestration/management layer above it. Often REST APIs. This is what lets business/network applications tell the controller what they want (policies, topology requests, etc.).
+- **Southbound interface** — sits between the controller and the physical/virtual network devices below it (switches, routers). OpenFlow is the classic example. This is how the controller actually pushes flow rules down to the hardware.
 
 
 
