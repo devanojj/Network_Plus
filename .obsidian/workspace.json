@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.50390243530273,
-    "collapsed": true
+    "width": 355.50390243530273
   },
   "right": {
     "id": "f96cfb5d5756e9a7",
@@ -198,9 +197,9 @@
   },
   "active": "29bda90da8469492",
   "lastOpenFiles": [
-    "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
     "Concepts/S/Subnetting/Total Usable Hosts per Subnet.md",
     "Concepts/S/Subnetting/Total Number of Subnets.md",
+    "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
     "Concepts/S/Subnetting/Subnet Mask into Slash Subnet.md",
     "Concepts/S/Subnetting/Slash Subnet convert into Subnet Mask.md",
     "Concepts/S/Subnetting/Private Address Range.md",
