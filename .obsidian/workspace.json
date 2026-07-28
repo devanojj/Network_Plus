@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.50390243530273,
-    "collapsed": true
+    "width": 355.50390243530273
   },
   "right": {
     "id": "f96cfb5d5756e9a7",
@@ -198,6 +197,8 @@
   },
   "active": "29bda90da8469492",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Concepts/T/Troubleshooting.md",
     "Concepts/D/DHCP DORA.md",
     "Concepts/S/SDN.md",
     "Concepts/S/Subnetting/Total Usable Hosts per Subnet.md",
@@ -222,8 +223,6 @@
     "Concepts/S/Switch Commands (Go back over).md",
     "Concepts/N/Network Device Commands.md",
     "Concepts/V/VPN.md",
-    "Concepts/Z/ZTA.md",
-    "Concepts/X/XSS.md",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "all_notes.txt",
     "Images/Pasted image 20260714210606.png",
@@ -242,7 +241,6 @@
     "Images/Pasted image 20260610134039.png",
     "Concepts/K",
     "Images/Pasted image 20260609134715.png",
-    "Images",
     "Images/Pasted image 20260609135348.png",
     "Images/Pasted image 20260609134754.png",
     "Untitled.canvas",
