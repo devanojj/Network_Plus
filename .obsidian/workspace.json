@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/D/DHCP Snooping.md",
+                "file": "Concepts/I/IPSG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DHCP Snooping"
+              "title": "IPSG"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.50390243530273
+    "width": 355.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "f96cfb5d5756e9a7",
@@ -197,6 +198,8 @@
   },
   "active": "c4ba9ce9465dbf2e",
   "lastOpenFiles": [
+    "Concepts/D/DHCP Snooping.md",
+    "Concepts/I/IPSG.md",
     "Concepts/O/OCSP.md",
     "Not Needed.md",
     "Concepts/D/DSCP.md",
@@ -222,8 +225,6 @@
     "Concepts/S/Subnetting/Slash Subnet convert into Subnet Mask.md",
     "Concepts/S/Subnetting/Private Address Range.md",
     "Concepts/A/APC.md",
-    "Concepts/R/Routing/Types of Routing/BGP.md",
-    "Concepts/R/Routing/Types of Routing/OSPF.md",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "all_notes.txt",
     "Images/Pasted image 20260714210606.png",
