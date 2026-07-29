@@ -11,7 +11,7 @@ Blocked ports still listen to BPDU
 [[BPDU Guard]]
 [[Root Guard]]
 [[Flood Guard]]
-
+[[Loop Guard]]
 
 
 

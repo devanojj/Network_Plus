@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/T/Troubleshooting.md",
+                "file": "Concepts/I/ICMP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Troubleshooting"
+              "title": "ICMP"
+            }
+          },
+          {
+            "id": "95d652df12be043f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Loop Guard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Loop Guard"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stick",
+                "query": "Guard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,8 +211,15 @@
   },
   "active": "29bda90da8469492",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Concepts/I/IAM.md",
+    "Concepts/R/Root Guard.md",
+    "Concepts/B/BPDU.md",
+    "Concepts/B/BPDU Guard.md",
+    "Loop Guard.md",
+    "Concepts/F/Flood Guard.md",
+    "Concepts/S/Subnetting/Adding Network Addresses.md",
     "Concepts/T/Troubleshooting.md",
+    "Untitled.base",
     "Concepts/D/DHCP DORA.md",
     "Concepts/S/SDN.md",
     "Concepts/S/Subnetting/Total Usable Hosts per Subnet.md",
@@ -217,12 +238,6 @@
     "Concepts/D/DHCP Snooping.md",
     "Concepts/W/WAF.md",
     "Concepts/D/DNS TXT.md",
-    "Concepts/U/UPC.md",
-    "Concepts/M/MMF.md",
-    "Concepts/O/OFDMA.md",
-    "Concepts/S/Switch Commands (Go back over).md",
-    "Concepts/N/Network Device Commands.md",
-    "Concepts/V/VPN.md",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "all_notes.txt",
     "Images/Pasted image 20260714210606.png",
