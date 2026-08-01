@@ -2,7 +2,7 @@
 
 Maps hostname to IP address for [[IPv4]]
 32-bit IP address
-Can be a fall back if [[MX]] is not available 
+Can be a fall back if [[MX]] is not available for Mail
 
 - If A record updated and web server is unreachable, you can use nslookup to check the hostname and then flush dns 
 

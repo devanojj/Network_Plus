@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fdf6f2c4c638d109",
+        "id": "c84ad018736e3009",
         "type": "tabs",
         "children": [
           {
-            "id": "19de4f197555dc80",
+            "id": "1055ddaa57d6a5a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/802/802.11.md",
+                "file": "Concepts/B/Backup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "802.11"
+              "title": "Backup"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.50390243530273,
-    "collapsed": true
+    "width": 355.50390243530273
   },
   "right": {
     "id": "f96cfb5d5756e9a7",
@@ -196,34 +195,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19de4f197555dc80",
+  "active": "1055ddaa57d6a5a8",
   "lastOpenFiles": [
-    "Concepts/802/802.1X.md",
-    "Concepts/802/802.3.md",
-    "Concepts/802/802.11.md",
-    "Concepts/M/MMF.md",
-    "Concepts/802/802.1w.md",
-    "Concepts/802/802.1p.md",
-    "Concepts/802/802.1Q.md",
-    "Concepts/C/Change Management.md",
-    "Concepts/C/kj.md",
-    "missing.md",
-    "Concepts/D/Diagram Types.md",
-    "Concepts/S/Switch Commands (Go back over).md",
-    "Concepts/S/SYN Flood.md",
-    "Concepts/S/Syslog.md",
-    "Concepts/S/SDN.md",
-    "Concepts/C/Community Cloud.md",
-    "Concepts/missing.md",
-    "Concepts/N/NAT Cloud Gateway.md",
-    "CompTIA Network+.md",
-    "Concepts/I/IPv4.md",
-    "Concepts/L/Loop Guard.md",
-    "Concepts/S/Subnetting/Total Usable Hosts per Subnet.md",
-    "Concepts/S/Subnetting/Total Number of Subnets.md",
-    "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
-    "Concepts/S/Subnetting/Subnet Mask into Slash Subnet.md",
-    "Concepts/S/Subnetting/Slash Subnet convert into Subnet Mask.md",
+    "Concepts/A/AWS Direct Connect.md",
+    "Concepts/A/Auto-MDIX.md",
+    "Concepts/A/Authentication.md",
+    "Concepts/A/Attenuation.md",
+    "Concepts/A/Attacks.md",
+    "Concepts/A/ARP Spoofing - Poisoning.md",
+    "Concepts/A/ARP.md",
+    "Concepts/A/ARM.md",
+    "Concepts/D/DFS.md",
+    "Concepts/A/Area Network.md",
+    "Concepts/A/APC.md",
+    "Concepts/A/AP.md",
+    "Concepts/A/Antenna.md",
+    "Concepts/A/Airtime.md",
+    "Concepts/M/MU-MIMO.md",
+    "Concepts/O/OFDMA.md",
+    "Concepts/A/AH.md",
+    "Concepts/A/AES.md",
+    "Concepts/A/Administrative Distance.md",
+    "Concepts/A/ADC.md",
+    "Concepts/A/Active Network Scan.md",
+    "Concepts/N/Nmap.md",
+    "Concepts/A/ACL.md",
+    "Concepts/A/Access switch.md",
+    "Concepts/A/Access Port VLAN.md",
+    "Concepts/A/Access Gateway.md",
     "Untitled.base",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "all_notes.txt",

@@ -1,9 +1,5 @@
 #domain/2-0-Network-Implementation
 
-Omnidirectional Antenna - 360 degrees and standard 
-Yagi / Dish / Parabolic - long range point to point
-Dipole - short range
-
 
 - **Omnidirectional** — radiates in all directions (360°) like a donut around the antenna. Standard coverage antenna, used on typical APs for general area coverage.
 
