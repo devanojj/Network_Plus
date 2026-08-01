@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/S/Subnetting/Slash Subnet convert into Subnet Mask.md",
+                "file": "Concepts/S/Subnetting/Subnet Mask into Slash Subnet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Slash Subnet convert into Subnet Mask"
+              "title": "Subnet Mask into Slash Subnet"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "ba3625cf72ff3fa6",
   "lastOpenFiles": [
+    "Concepts/S/Subnetting/Slash Subnet convert into Subnet Mask.md",
     "Concepts/S/Subnetting/Private Address Range.md",
     "Concepts/S/Subnetting/Adding Network Addresses.md",
     "Concepts/D/DHCP.md",
@@ -222,7 +223,6 @@
     "Concepts/R/Root Guard.md",
     "Concepts/B/BPDU.md",
     "Concepts/B/BPDU Guard.md",
-    "Concepts/Loop Guard.md",
     "Untitled.base",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "all_notes.txt",
