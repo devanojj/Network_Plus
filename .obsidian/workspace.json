@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5af591b759049b0a",
+        "id": "fdf6f2c4c638d109",
         "type": "tabs",
         "children": [
           {
-            "id": "ba3625cf72ff3fa6",
+            "id": "19de4f197555dc80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/L/Loop Guard.md",
+                "file": "Concepts/C/Change Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loop Guard"
-            }
-          },
-          {
-            "id": "b20d545b5f7a4e94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompTIA Network+.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CompTIA Network+"
+              "title": "Change Management"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "QoS",
+                "query": "community cloud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,10 +195,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b20d545b5f7a4e94",
+  "active": "19de4f197555dc80",
   "lastOpenFiles": [
-    "Concepts/L/Loop Guard.md",
+    "Concepts/C/kj.md",
+    "Concepts/802/802.1Q.md",
+    "Concepts/802/802.1p.md",
+    "missing.md",
+    "Concepts/D/Diagram Types.md",
+    "Concepts/S/Switch Commands (Go back over).md",
+    "Concepts/S/SYN Flood.md",
+    "Concepts/S/Syslog.md",
+    "Concepts/S/SDN.md",
+    "Concepts/C/Community Cloud.md",
+    "Concepts/missing.md",
+    "Concepts/N/NAT Cloud Gateway.md",
     "CompTIA Network+.md",
+    "Concepts/I/IPv4.md",
+    "Concepts/802/802.11.md",
+    "Concepts/L/Loop Guard.md",
     "Concepts/S/Subnetting/Total Usable Hosts per Subnet.md",
     "Concepts/S/Subnetting/Total Number of Subnets.md",
     "Concepts/S/Subnetting/Subnetting with Subnet Mask.md",
@@ -224,20 +223,6 @@
     "Concepts/D/DHCP.md",
     "Concepts/S/SNMP.md",
     "Concepts/S/SIP.md",
-    "Concepts/P/Ports TCP & UDP.md",
-    "Concepts/S/SMTP.md",
-    "Concepts/P/Physical & Hardware Troubleshooting.md",
-    "Concepts/T/Troubleshooting.md",
-    "Concepts/N/Network Performance Troubleshooting.md",
-    "Concepts/C/CRC.md",
-    "Concepts/W/Wireless Troubleshooting.md",
-    "Concepts/I/IPSG.md",
-    "Concepts/D/DHCP Snooping.md",
-    "Concepts/O/OCSP.md",
-    "Plan/Not Needed.md",
-    "Concepts/D/DSCP.md",
-    "Concepts/C/Channel bonding.md",
-    "Concepts/Q/QoS.md",
     "Untitled.base",
     "Concepts/R/Routing/Protocol Types/Routing Protocol Breakdown.canvas",
     "all_notes.txt",

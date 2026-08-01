@@ -1,0 +1,8 @@
+- **Physical Diagram**: Visualises exact physical device locations, cable runs, rack unit positions, patch panel ports, and hardware model numbers.
+- **Logical Diagram**: Visualises IP network boundaries, subnets, VLAN IDs, routing topologies, firewall security zones, and virtual interfaces.
+- **Rack Elevation Diagram**: 2D front and back view of equipment positions inside a server rack.
+- **Cable Map**: Cross-connect schedules listing patch panel port connections and wire colour codes.
+- **Layer 1 / Layer 2 / Layer 3 Diagrams**:
+  - *L1*: Cabling, transceivers, physical ports.
+  - *L2*: Switches, VLANs, trunk links, STP topology.
+  - *L3*: Routers, IP subnets, default gateways, routing protocol neighbor relationships.

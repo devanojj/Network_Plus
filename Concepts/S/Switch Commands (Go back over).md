@@ -7,3 +7,4 @@
 - "Verify PoE budget for phones/APs/cameras" → **show power**
 - "Confirm VLAN assignment on switch ports" → **show vlan**
 - "See IP-to-MAC mappings device has learned" → **show arp**
+

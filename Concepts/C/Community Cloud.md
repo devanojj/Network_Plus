@@ -1,0 +1,1 @@
+Shared infrastructure used by multiple organisations with common compliance/security requirements (e.g., government agencies).

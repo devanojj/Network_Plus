@@ -28,3 +28,11 @@ Quick recap of the two:
 
 
 
+
+ - **Application Aware**: Automatically prioritizes traffic based on application layer signatures (e.g., VoIP vs. bulk file transfers).
+  - **Zero-Touch Provisioning (ZTP)**: Automatically downloads configuration templates and code upon initial boot and network connect.
+  - **Transport Agnostic**: Can bundle MPLS, Broadband, and 5G connections into a single logical WAN overlay.
+  - **Central Policy Management**: Pushes configuration and security policies across all WAN devices from a single central console.
+
+
+
