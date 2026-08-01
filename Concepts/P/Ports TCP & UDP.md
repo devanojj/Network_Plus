@@ -37,9 +37,7 @@
 | SMTPS (Modern)                | TCP 587      |
 | [[POP3]] (Don't need)         | TCP 110      |
 | [[POP3S]] (Don't need)        | TCP 995      |
-| [[SMTP]]                      |              |
-
-
+|                               |              |
 
 
 
@@ -50,11 +48,11 @@ Secure Shell (SSH) 22
 Telnet 23
 Simple Mail Transfer Protocol (SMTP) 25
 Domain Name System (DNS) 53
-Dynamic Host Configuration Protocol (DHCP) 67/68
+Dynamic Host Configuration Protocol ([[DHCP]]) 67/68
 Trivial File Transfer Protocol (TFTP) 69
 Hypertext Transfer Protocol (HTTP) 80
 Network Time Protocol (NTP) 123
-Simple Network Management Protocol (SNMP) 161/162
+Simple Network Management Protocol ([[SNMP]]) 161/162
 Lightweight Directory Access Protocol (LDAP) 389
 Hypertext Transfer Protocol Secure (HTTPS) 443
 Server Message Block ([[SMB]]) 445
@@ -63,7 +61,10 @@ Simple Mail Transfer Protocol Secure (SMTPS) 587
 Lightweight Directory Access Protocol over SSL (LDAPS) 636
 Structured Query Language (SQL) Server 1433
 Remote Desktop Protocol (RDP) 3389
-Session Initiation Protocol (SIP) 5060/5061
+Session Initiation Protocol ([[SIP]]) 5060/5061
 
 
 Ports tell us **what services are running on network servers**. Services listen on specific ports (HTTP on 80/443, SSH on 22, RDP on 3389, etc.)
+
+- **FTP Control** → **TCP 21**
+- **FTP Data** → **TCP 20**

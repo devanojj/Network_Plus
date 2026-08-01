@@ -8,3 +8,7 @@ Doesn't carry voice or video data.
 Handles ringing and hang up on calls 
 
 The [[RTP]] handles the actual media traffic 
+
+
+**==Secure SIP==**
+Port 5061
