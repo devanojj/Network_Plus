@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Score Report">
+    <title>COMPTIA SCORE REPORT</title>
+    <link type="text/css" rel="stylesheet" href="css/default.css" />
+    <link type="text/css" rel="stylesheet" href="css/custom.css" />
+    <link type="text/css" rel="stylesheet" href="css/print.css" media="print" />
+    <script type="text/javascript" src="js/scoreReportData.js"></script>
+    <script type="text/javascript" src="js/moment.min.js"></script>
+    <script type="text/javascript" src="js/custom.js"></script>
+    <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+</head>
+
+<body onload="load()">
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-xs-6 col-p-6">
+                    <img class="logo" src="images/Plus_Network_Certification.jpg">
+                </div>
+                <div class="col-md-6 col-xs-6 col-p-6">
+                    <span id="candidatephoto" style="align-content: center">
+                        <script type="text/javascript">document.write("<img src=\"" + candidate.photo + "\"/>")</script>
+                    </span>
+                </div>
+                <div style="text-align: center;">
+                    <h1><script type="text/javascript">document.write(result.exam.title);</script> Score Report <script type="text/javascript">document.write(result.exam.seriesCode);</script></h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 col-xs-12 col-p-12">
+                    <div class="field"><b>CANDIDATE:</b>
+                        <script type="text/javascript">
+                        document.write(candidate.firstName);
+                        </script>
+                        <script type="text/javascript">
+                        document.write(candidate.lastName);</script> 
+						<script type="text/javascript">
+						if (candidate.suffix !== undefined)
+						document.write(candidate.suffix);
+                        </script>
+                    </div>
+                    <div class="field"><b>CANDIDATE ID:</b>
+                        <script type="text/javascript">
+                        document.write(candidate.clientID);
+                        </script>
+                    </div>
+                    <div class="field"><b>REGISTRATION NUMBER:</b>
+                        <script type="text/javascript">
+                        document.write(result.registration.ID);
+                        </script>
+                    </div>
+                    <div class="field"><b>EXAM:</b>
+                        <script type="text/javascript">
+                        document.write(result.exam.title);
+                        </script>
+                        <p></p>
+                    </div>
+                    <div class="field"><b>DATE:</b>
+                        <script type="text/javascript">
+                        document.write(moment(result.registration.deliveryDate).format("DD-MMM-YYYY"));
+                        </script>
+                    </div>
+                    <div class="field"><b>SITE NUMBER:</b>
+                        <script type="text/javascript">
+                        result.registration.centerID !== "" ? document.write(result.registration.centerID) : document.write("<br>")
+                        </script>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container pass" style="display:none">
+        <div class="field"><b>PASSING SCORE:</b>
+            <script type="text/javascript">
+            document.write(result.exam.passingScore);
+            </script>
+        </div>
+        <div class="field"><b>CANDIDATE SCORE:</b>
+            <script type="text/javascript">
+            document.write(result.exam.score);
+            </script>
+        </div>
+        <div class="field"><b>PASS/FAIL:</b>
+            <script type="text/javascript">
+            document.write(result.exam.grade.substr(0, 1).toUpperCase() + result.exam.grade.substr(1));
+            </script>
+            <p></p>
+        </div>
+        <div>The
+            <script type="text/javascript">
+            document.write(result.exam.title);
+            </script> has a scaled score between 100 and 900.
+            <p></p>
+        </div>
+        <div>You incorrectly answered one or more questions in the following objective areas:</div>
+        <div style="padding-top: 14px">
+            <div class="row"></div>
+            <div class="row resultTable">
+                <div class="resultTableContent col-xs-10 col-md-10">
+                    <script type="text/javascript">
+                    failedReportingGroups();
+                    </script>
+                </div>
+            </div>
+        </div>
+		<div>
+                <p>For a complete listing of
+                <script type="text/javascript">
+                document.write(result.exam.title);
+                </script> objectives, please visit <u>https://certification.comptia.org</u>.</p>
+            </div>
+          <p></p><b>View your exam history and certification status</b><p>NOTE: Please allow up to <b>five business days</b> from the time of your exam for your exam and certification status to be updated on your CompTIA certification account.</p><!-- <p><b>You must first pass both A+ exams to achieve CompTIA A+ certification and receive your certification kit.</b></p> -->To access your certification account, log in at <u>https://login.comptia.org</u> and click on the Manage Certifications tab. Your exam(s) are located on the History tab and your certification(s) are listed on the Certifications tab.<p></p>
+		  <!-- <b>To receive your certification kit</b><p></p><p>CompTIA provides a complimentary printed certificate and wallet card for your new certification. Prior to the mailing of your certification kit, you must verify the spelling of your name and the mailing address on your account.<p></p><ol type="1"><li style= "padding-left: 1.8em;">Log into your CompTIA account at <u>https://login.comptia.org.</u> Use the password reset option if needed.<p></p></li><li style= "padding-left: 1.8em;">Click the profile icon with your initials in the upper-right corner of the page and click My Profile from the dropdown.<p></p></li><!-- <ol type="a"><li style= "padding-left: 1.8em;">If all the information is correct, please move on to Step 3.<p></p></li><li style= "padding-left: 1.8em;">If your name is NOT correct, DO NOT CLICK ON THE SUBMIT BUTTON. Instead, please click &quot;SUPPORT&quot; located on the top right corner of your screen and you will be linked to the CompTIA Customer Support Center. Click on &quot;SUBMIT A TICKET&quot;, then select the ticket type &quot;NAME CORRECTIONS/CHANGES&quot; and provide the required corrections / legal documentation.<p></p></li><li style= "padding-left: 1.8em;">If any of your other demographics are incorrect, please make the correction to your record and move on to Step 3.</li></ol> -->
+		  <!-- <p></p><li style= "padding-left: 1.8em;">Verify the accuracy of your name. If your name needs to be changed, please submit a help request at <u>https://help.comptia.org</u> to have your name updated by a member of our customer service team prior to proceeding further.<p></p></li>  <li style= "padding-left: 1.8em;">Click the Verify Address button in the banner at the top of the page, which states “You have a certification kit ready to be mailed. Click here to verify your address.”<p></p></li><li style= "padding-left: 1.8em;">Review your address and make any necessary changes, then click the “Verify Address” button.<p></p></li></ol><p></p>Your certification kit will be mailed via USPS first-class mail. Please allow up to eight weeks (often sooner) for your certification kit to be prepared and delivered.<p></p> -->
+		   <p><b>To download a PDF copy of your certificate</b></p>
+            <p>You may download a PDF copy of your certificate, which includes a verification code that may be entered at <u>https://verify.comptia.org</u> as official verification of your certification status.</p>
+			<ol type="1"><li style= "padding-left: 1.8em;">Log into your CompTIA account at <u>https://login.comptia.org.</u> Use the password reset option if needed.</li><li style= "padding-left: 1.8em;">Click on View Certification Account.</li><li style= "padding-left: 1.8em;">Click on Certifications on the left side.</li><li style= "padding-left: 1.8em;">Click on Download PDF Certificate and then the Download link.</li></ol>
+			<p><b>Customer Service</b></p>
+            <p>If you have questions regarding this score report or your certification, please visit <u>https://help.comptia.org</u> where you can search common questions and contact a member of our customer service team.</p>
+		   <p><b>CompTIA Retake Policy</b></p>
+            <p>In the event that you fail your first (1st) attempt to pass any CompTIA certification examination, CompTIA does not require any waiting period between the first (1st) and second (2nd) attempt to pass such examination. However, before your third (3rd) attempt or any subsequent attempt to pass such examination, you shall be required to wait for a period of at least fourteen (14) calendar days from the date of your last attempt to pass such examination.</p>
+            <ol type="a"><li style= "padding-left: 1.8em;">If a Candidate has passed an exam (or multiple exams) and achieved a certification, he/she cannot take the exam again, using the same exam code, without prior consent from CompTIA.<p/><p/></li>
+            <ul type="none"><li>For example:</p></li></ul>
+				
+            <ol type="1"><li style= "padding-left: 1.8em;">If a candidate has passed an exam (e.g. CompTIA Network+ N10-005) he/she will need to wait until a new series (e.g. N10-006) becomes available before attempting to recertify.<p/><p/></li>
+            <li style= "padding-left: 1.8em;">If a candidate has passed multiple exams to achieve a certification (e.g. CompTIA A+ 220-701 & 220-702) he/she will need to wait until a new series (e.g. 220-801 & 220-802) becomes available before attempting to recertify.<p/></li></ol>
+            
+            <li style= "padding-left: 1.8em;">CompTIA beta examinations may only be taken one (1) time by each candidate.<p/><p/></li>
+            <li style= "padding-left: 1.8em;">A test found to be in violation of the retake policy will be invalidated and the candidate may be subject to a suspension period. Repeat violators will be permanently banned from participation in the CompTIA Certification Program.<p/><p/></li>
+            <li style= "padding-left: 1.8em;">Candidates must pay the exam price each time they attempt the exam. CompTIA does not offer any free re-tests or discounts on retakes.</li></ol>
+            <!-- <p>DO NOT LOSE THIS REPORT</p> -->
+        <div>
+            <center><span style="font-size: 8pt;"><b>Thank you for choosing Pearson VUE! </b></span></center>
+            <span style="font-size: 8pt;">This examination was delivered by a Pearson VUE Authorized Site. For all your CompTIA testing needs, please contact your local Pearson VUE Authorized Center or visit our World Wide Web site at</span></div>
+        <div>
+            <center><span style="font-size: 8pt;"><b>www.pearsonvue.com/comptia</b></span></center>
+        </div>
+        <div style="padding-left: 3.8em;"><span style="font-size: 8pt;"><i>Or call...</i></span></div>
+        <div class="row" style= "margin: 0; padding-left: 4.8em;"><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">United States</span></div><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">877-551-7587</span></div></div>
+        <div class="row" style= "margin: 0; padding-left: 4.8em;"><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">Canada</span></div><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">877-551-7587</span></div></div>
+        <div class="row" style= "margin: 0; padding-left: 4.8em;"><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">United Kingdom</span></div><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">0800-731-9905</span></div></div>
+        <div style="padding-left: 3.8em;"><span style="font-size: 8pt;"><i>For phone numbers not listed, visit the above web site.</i></span></div>
+		
+        <div style="padding-top: 14px">
+                <center><span style="font-size: 8pt;"><b>You Can Authenticate This Score Report Using Pearson VUE's Digital Embosser!</b></span></center>
+            </div>
+            <div class="row">
+                <div class="col-md-6 col-xs-12 col-p-6">
+                    <div class="field"><span style="font-size: 8pt;">
+                        <ul>REGISTRATION NUMBER:
+                            <b><script type="text/javascript">document.write(result.registration.ID);</script></b></ul></span>
+                    </div>
+                </div>
+                <div class="field"><span style="font-size: 8pt;">
+                    <ul>VALIDATION NUMBER:
+                        <b><script type="text/javascript">document.write(result.exam.validationNumber);</script></b></ul></span>
+                </div>
+            </div>
+            <div style="padding-top: 14px"><span style="font-size: 8pt;">To maintain the integrity of this testing program and the value of your certification, Pearson VUE introduces Digital Embossing! Digital Embossing eliminates the possibility of unauthorized embossing of counterfeit score reports. </span></div>
+            <div>
+                <p><span style="font-size: 8pt;">To authenticate this score report, go to <b>https://login.comptia.org/login</b>.</span></p>
+            </div>
+    </div>			
+    </div>
+    <div class="container fail" style="display:none">
+        <div style="padding-top: 14px">
+            <div class="field"><b>PASSING SCORE:</b>
+                <script type="text/javascript">
+                document.write(result.exam.passingScore);
+                </script>
+            </div>
+            <div class="field"><b>CANDIDATE SCORE:</b>
+                <script type="text/javascript">
+                document.write(result.exam.score);
+                </script>
+            </div>
+            <div class="field"><b>PASS/FAIL:</b>
+                <script type="text/javascript">
+                document.write(result.exam.grade.substr(0, 1).toUpperCase() + result.exam.grade.substr(1));
+                </script>
+                <p></p>
+            </div>
+            <div><b>Before attempting to retake the <script type="text/javascript">document.write(result.exam.title);</script>, please review the CompTIA Retake Policy below.</b>
+                <p></p>
+            </div>
+            <div>The
+                <script type="text/javascript">
+                document.write(result.exam.title);
+                </script> has a scaled score between 100 and 900.
+                <p></p>
+            </div>
+            <div>You incorrectly answered one or more questions in the following objective areas:</div>
+            <div style="padding-top: 14px">
+                <div class="row"></div>
+                <div class="row resultTable">
+                    <div class="resultTableContent col-xs-10 col-md-10">
+                        <script type="text/javascript">
+                        failedReportingGroups();
+                        </script>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <p>For a complete listing of
+                    <script type="text/javascript">
+                    document.write(result.exam.title);
+                    </script> objectives, please visit <u>https://certification.comptia.org</u>.</p>
+            </div>
+            <!-- <p><b>Your CompTIA Record at https://www.certmetrics.com/comptia/login.aspx:</b></p> -->
+            <p></p><b>Track your Exam History/Current Progress Online:</b><p>To access your exam history, update your demographics or verify certificate status, login at: <u>https://login.comptia.org/login.</u> Please allow five business days for your CompTIA web record to be updated with exam results.</p><!-- <ol type="1"><li style= "padding-left: 1.8em;">Please allow <b>5 business days</b> after you've taken your <script type="text/javascript">document.write(result.exam.title);</script>, then login at <u>www.certmetrics.com/comptia/login.aspx</u> using your Candidate ID and password (you will be prompted to create this on your first login).<p></p></li><li style= "padding-left: 1.8em;">Locate your exam record, and carefully review your first and last name and all of your demographic information for accuracy:<p></p></li><ol type="a"><li style= "padding-left: 1.8em;">If all the information is correct, please move on to Step 3.<p></p></li><li style= "padding-left: 1.8em;">If your name is NOT correct, DO NOT CLICK ON THE SUBMIT BUTTON. Instead, please click &quot;SUPPORT&quot; located on the top right corner of your screen and you will be linked to the CompTIA Customer Support Center. Click on &quot;SUBMIT A TICKET&quot;, then select the ticket type &quot;NAME CORRECTIONS/CHANGES&quot; and provide the required corrections / legal documentation.<p></p></li><li style= "padding-left: 1.8em;">If any of your other demographics are incorrect, please make the correction to your record and move on to Step 3.</li></ol><p></p><li style= "padding-left: 1.8em;">Once all information is correct, press the submit button. By clicking on the submit button, you are confirming that all of your demographic information is correct and authorizing CompTIA to print and ship your paper certificate. Once CompTIA has received your authorization, CompTIA will generate your certificate, which should be delivered to you via mail within eight weeks after completing this process online.</li></ol> --><!-- <p></p><b>Track your Exam History/Current Progress Online:</b><p></p><p>To access your exam history, update your demographics or verify certificate status, login at: <u>https://login.comptia.org/login.</u> Please allow five business days for your CompTIA web record to be updated with exam results. --><p></p><b>Customer Service:</b><p></p>If you have questions regarding this score report or your certification, please visit <u>https://help.comptia.org</u> where you can search common questions and contact a member of our customer service team.<p></p><!-- </li> --><!-- <li style= "padding-left: 1.8em;">Click on &quot;CERTIFICATIONS&quot; tab.<p></p></li><li style= "padding-left: 1.8em;">On the far right, under the &quot;DOWNLOADS&quot; column, there is a PDF link for each earned certificate.<p></p></li><li style= "padding-left: 1.8em;">Click on a link to begin a download of the PDF file.<p></p></li></ol><b>Support</b><p></p>If you have questions regarding this score report or your certificate, login at <u>www.certmetrics.com/comptia/login.aspx</u>, and click on &quot;SUPPORT.&quot;<p></p> -->
+		   <p><b>CompTIA Retake Policy</b></p>
+            <p>In the event that you fail your first (1st) attempt to pass any CompTIA certification examination, CompTIA does not require any waiting period between the first (1st) and second (2nd) attempt to pass such examination. However, before your third (3rd) attempt or any subsequent attempt to pass such examination, you shall be required to wait for a period of at least fourteen (14) calendar days from the date of your last attempt to pass such examination.</p>
+            <ol type="a"><li style= "padding-left: 1.8em;">If a Candidate has passed an exam (or multiple exams) and achieved a certification, he/she cannot take the exam again, using the same exam code, without prior consent from CompTIA.<p/><p/></li>
+            <ul type="none"><li>For example:</p></li></ul>
+				
+            <ol type="1"><li style= "padding-left: 1.8em;">If a candidate has passed an exam (e.g. CompTIA Network+ N10-005) he/she will need to wait until a new series (e.g. N10-006) becomes available before attempting to recertify.<p/><p/></li>
+            <li style= "padding-left: 1.8em;">If a candidate has passed multiple exams to achieve a certification (e.g. CompTIA A+ 220-701 & 220-702) he/she will need to wait until a new series (e.g. 220-801 & 220-802) becomes available before attempting to recertify.<p/></li></ol>
+            
+            <li style= "padding-left: 1.8em;">CompTIA beta examinations may only be taken one (1) time by each candidate.<p/><p/></li>
+            <li style= "padding-left: 1.8em;">A test found to be in violation of the retake policy will be invalidated and the candidate may be subject to a suspension period. Repeat violators will be permanently banned from participation in the CompTIA Certification Program.<p/><p/></li>
+            <li style= "padding-left: 1.8em;">Candidates must pay the exam price each time they attempt the exam. CompTIA does not offer any free re-tests or discounts on retakes.</li></ol>
+            <!-- <p>DO NOT LOSE THIS REPORT</p> -->
+        <div>
+            <center><span style="font-size: 8pt;"><b>Thank you for choosing Pearson VUE! </b></span></center>
+            <span style="font-size: 8pt;">This examination was delivered by a Pearson VUE Authorized Site. For all your CompTIA testing needs, please contact your local Pearson VUE Authorized Center or visit our World Wide Web site at</span></div>
+        <div>
+            <center><span style="font-size: 8pt;"><b>www.pearsonvue.com/comptia</b></span></center>
+        </div>
+        <div style="padding-left: 3.8em;"><span style="font-size: 8pt;"><i>Or call...</i></span></div>
+        <div class="row" style= "margin: 0; padding-left: 4.8em;"><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">United States</span></div><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">877-551-7587</span></div></div>
+        <div class="row" style= "margin: 0; padding-left: 4.8em;"><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">Canada</span></div><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">877-551-7587</span></div></div>
+        <div class="row" style= "margin: 0; padding-left: 4.8em;"><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">United Kingdom</span></div><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">0800-731-9905</span></div></div>
+        <div style="padding-left: 3.8em;"><span style="font-size: 8pt;"><i>For phone numbers not listed, visit the above web site.</i></span></div>
+            <div style="padding-top: 14px">
+                <center><span style="font-size: 8pt;"><b>You Can Authenticate This Score Report Using Pearson VUE's Digital Embosser!</b></span></center>
+            </div>
+			<div class="row">
+                <div class="col-md-6 col-xs-12 col-p-6">
+                    <div class="field"><span style="font-size: 8pt;">
+                        <ul>REGISTRATION NUMBER:
+                            <b><script type="text/javascript">document.write(result.registration.ID);</script></b></ul></span>
+                    </div>
+                </div>
+                <div class="field"><span style="font-size: 8pt;">
+                    <ul>VALIDATION NUMBER:
+                        <b><script type="text/javascript">document.write(result.exam.validationNumber);</script></b></ul></span>
+                </div>
+            </div>
+            <div style="padding-top: 14px"><span style="font-size: 8pt;">To maintain the integrity of this testing program and the value of your certification, Pearson VUE introduces Digital Embossing! Digital Embossing eliminates the possibility of unauthorized embossing of counterfeit score reports. </span></div>
+            <div>
+                 <p><span style="font-size: 8pt;">To authenticate this score report, go to <b>https://login.comptia.org/login</b>.</span></p>
+            </div>
+        </div>
+    <!-- </div> -->
+    <div class="container field">
+        <span class="taken" style="display:none">Thank you for completing the <script type="text/javascript">document.write(result.exam.title);</script>.<p></p>Because this is a beta exam, the responses and comments of all the beta exam takers will be collected, analyzed, and used to determine the passing score.<p></p>You will have your <script type="text/javascript">document.write(result.exam.title);</script> score sent to you <i>after</i> the beta analysis process is complete. Check the CompTIA website <u>www.comptia.org</u> for information on when exam results wil be mailed.<p></p>Per CompTIA's Candidate Agreement, CompTIA beta certification examinations may only be taken one (1) time by each candidate.
+            
+               
+     <div>
+            <center><span style="font-size: 8pt;"><b>Thank you for choosing Pearson VUE! </b></span></center>
+            <span style="font-size: 8pt;">This examination was delivered at a Pearson VUE Authorized Center. For all your CompTIA testing needs, please contact your local Pearson VUE Authorized Center or visit our World Wide Web site at</span></div>
+        <div>
+            <center><span style="font-size: 8pt;"><b>www.pearsonvue.com/comptia</b></span></center>
+        </div>
+        <div style="padding-left: 3.8em;"><span style="font-size: 8pt;"><i>Or call...</i></span></div>
+        <div class="row" style= "margin: 0; padding-left: 4.8em;"><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">United States</span></div><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">877-551-7587</span></div></div>
+        <div class="row" style= "margin: 0; padding-left: 4.8em;"><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">Canada</span></div><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">877-551-7587</span></div></div>
+        <div class="row" style= "margin: 0; padding-left: 4.8em;"><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">United Kingdom</span></div><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">0800-731-9905</span></div></div>
+        <div style="padding-left: 3.8em;"><span style="font-size: 8pt;"><i>For phone numbers not listed, visit the above web site.</i></span></div>
+		</div>
+        
+    
+
+    
+
+ 
+ </span>
+    </div>
+    <div class="container field">
+        <span class="refused" style="display:none">CompTIA requires that all exam candidates review and accept a CompTIA Candidate Agreement prior to taking a CompTIA certification exam. The Candidate Agreement protects the individuals and organizations that invest in certification &#x2d; and safeguards the integrity of the CompTIA certification programs.<p></p>This report is notification that your <script type="text/javascript">document.write(result.exam.title);</script> was canceled due to your failure to accept the CompTIA Candidate Agreement.<p></p>Please note exam fees for candidate-terminated exams are not refundable.<p></p>
+ 
+               
+ <div>
+            <center><span style="font-size: 8pt;"><b>Thank you for choosing Pearson VUE! </b></span></center>
+            <span style="font-size: 8pt;">This examination was delivered by a Pearson VUE Authorized Site. For all your CompTIA testing needs, please contact your local Pearson VUE Authorized Center or visit our World Wide Web site at</span></div>
+        <div>
+            <center><span style="font-size: 8pt;"><b>www.pearsonvue.com/comptia</b></span></center>
+        </div>
+        <div style="padding-left: 3.8em;"><span style="font-size: 8pt;"><i>Or call...</i></span></div>
+        <div class="row" style= "margin: 0; padding-left: 4.8em;"><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">United States</span></div><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">877-551-7587</span></div></div>
+        <div class="row" style= "margin: 0; padding-left: 4.8em;"><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">Canada</span></div><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">877-551-7587</span></div></div>
+        <div class="row" style= "margin: 0; padding-left: 4.8em;"><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">United Kingdom</span></div><div class="col-md-6 col-xs-6 col-p-6"><span style="font-size: 8pt;">0800-731-9905</span></div></div>
+        <div style="padding-left: 3.8em;"><span style="font-size: 8pt;"><i>For phone numbers not listed, visit the above web site.</i></span></div>
+                     
+		</div>
+</body>
+
+</html>
