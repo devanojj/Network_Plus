@@ -183,7 +183,7 @@
             }
           },
           {
-            "id": "d87a3fd59c7d92c1",
+            "id": "f7d4e209f6a24bc5",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -197,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
